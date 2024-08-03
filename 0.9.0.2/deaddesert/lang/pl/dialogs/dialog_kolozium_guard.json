@@ -1,0 +1,7 @@
+{
+  "dialog": "Na jakim chorym froncie służyłem, żeby być połączonym z tobą?",
+  "name": "Wartownik Kolozjum",
+  "option1": "Kim jesteś?",
+  "parent": "dialogs_generic",
+  "response_guard": "Jestem niczym innym jak tylko wiernym wyznawcą świętej sztuki... głupcze!"
+}

@@ -1,0 +1,6 @@
+{
+  "dialog": "Zbieram. Sprzedaję... Czego chcesz?",
+  "name": "Civ Sprzedawca",
+  "option1": "Zróbmy interes",
+  "parent": "dialogs_generic"
+}

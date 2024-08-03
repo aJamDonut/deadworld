@@ -1,0 +1,20 @@
+{
+  "tutstep_1": "Loot Bodies",
+  "tutstep_1_description": "You can loot dead bodies by right clicking them and selecting \"Inventory\"",
+  "tutstep_2": "Locked Doors",
+  "tutstep_2_description": "Some doors are locked with a key. After you find the key you can unlock the door by walking through it.",
+  "tutstep_3": "Doors",
+  "tutstep_3_description": "Some doors may be unlocked or locked, you can try to walk through a door by right-clicking on the other side of the door.",
+  "tutstep_4": "NPC Stats",
+  "tutstep_4_description": "You can look at the stats of other NPC's by left-clicking the NPC. The stats will show on the bottom right of the screen.",
+  "tutstep_5": "Attacking",
+  "tutstep_5_description": "You can talk, attack or follow other NPC's by right-clicking them and choosing an option from the dropdown box.",
+  "tutstep_6": "Looting",
+  "tutstep_6_description": "Some containers within the world can be looted. Simply right-click the container and select \"Open\"",
+  "tutstep_7": "Panning",
+  "tutstep_7_description": "You can look around the environment by middle-clicking and holding your mouse while moving it. You can go back to following a Pawn by double-clicking them.",
+  "tutstep_8": "Mouse Controls",
+  "tutstep_8_description": "The whole game can be controlled from the mouse. Left-clicking gives you information about things. Middle-clicking lets you look around more. Right-clicking allows you to choose actions on objects and move Pawns.",
+  "tutstep_9": "Research Bench",
+  "tutstep_9_description": "YOU MUST PUT RESEARCH NODES IN A RESEARCH BENCH TO UNLOCK RESEARCH.\r\n\r\nFind or buy some research nodes. Find any research bench in the world or build your own. Add the research nodes to the benches inventory, then use the research bench to unlock research."
+}

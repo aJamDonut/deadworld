@@ -1,0 +1,9 @@
+{
+  "dialog": "C'EST LUI, C'EST TOMMY STEEL ! C'EST 'RESSENTEZ L'ACIER' ! Je n'arrive pas à y croire... Tommy Steel, ici ? À Landzo City ??!",
+  "name": "dialogue fan de tommy steel",
+  "option1": "Qui est ce gars ?",
+  "option2": "Comment ce type est-il devenu célèbre ?",
+  "parent": "dialogs_generic",
+  "response_famous": "Devenir célèbre ? Je ne sais pas ! Ses films déchirent cependant !",
+  "response_steelinfo": "Qui est ce gars ??? Eh bien, il n'est autre que la sensation cinématographique transplanétaire numéro un !"
+}

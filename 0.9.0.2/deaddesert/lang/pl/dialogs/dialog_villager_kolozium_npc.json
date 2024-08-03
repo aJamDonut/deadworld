@@ -1,0 +1,12 @@
+{
+  "dialog": "Wow, widzę świeże mięso.",
+  "name": "Mieszkaniec Kolozium",
+  "option1": "Co to za miejsce?",
+  "option2": "Co można tutaj robić?",
+  "option3": "Dlaczego nazwałeś mnie głupcem?",
+  "parent": "dialogs_generic",
+  "response_fool": "Bo jesteś głupcem! Zapytaj kogokolwiek innego tutaj, obiecuję, że też tak powiedzą... głupcze!",
+  "response_towninfo": "To jest kolozium, walczymy w kopule... głupcze!",
+  "response_whatdo": "Jestem pewien, że pewnego dnia będziesz w stanie walczyć jako gladiator... ;) W przeciwnym razie trzymaj się z dala od bandytów TAR... głupcze!",
+  "response_whyfool": "Nigdy nie nazwałem cię głupcem?"
+}

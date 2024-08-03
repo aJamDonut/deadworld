@@ -1,0 +1,11 @@
+{
+  "dialog": "Cześć! Jak się dzisiaj masz?",
+  "name": "Chory Mieszkaniec",
+  "option1": "Co to za miejsce?",
+  "option2": "Co można tutaj robić?",
+  "option3": "Czy nazywacie się chory, bo wszyscy macie zwichrowane umysły?",
+  "parent": "dialogs_generic",
+  "response_mean": "Dlaczego wszyscy zawsze są dla nas źli...",
+  "response_saloon": "Odwiedź saloon i się upij, oczywiście!",
+  "response_towninfo": "To jest nasza wioska, Sicks. Witamy wszystkich!"
+}

@@ -1,0 +1,7 @@
+{
+  "dialog": "Arrêtez de fixer. Vous regardez le Chef du Fort Axehead.",
+  "name": "Chef Axehead",
+  "option1": "Un fort n'a-t-il pas besoin d'une armée ?",
+  "option2": "Hé, j'ai une question.",
+  "parent": "dialogs_generic"
+}

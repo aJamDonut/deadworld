@@ -1,0 +1,8 @@
+{
+  "dialog": "::: Initiation de la routine de salutation...\r\n\r\nBonjour, <<espèce manquante>>, je suis Walt 3000. L'un des 3 assistants IA créés pour aider mes créateurs.\r\n\r\nComment puis-je vous aider aujourd'hui ?",
+  "name": "Walt",
+  "option1": "Que pouvez-vous me dire sur votre but et vos créateurs ?",
+  "option2": "Comment puis-je gagner de l'argent ?",
+  "option3": "[VÉRIFIER] Oui, bien sûr, je vais le payer",
+  "parent": "dialogs_generic"
+}

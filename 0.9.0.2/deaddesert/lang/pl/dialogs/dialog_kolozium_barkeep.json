@@ -1,0 +1,13 @@
+{
+  "dialog": "Witamy w jedynym prawdziwym saloonie w Kolozium, przyjacielu!",
+  "name": "Barman Kolozium 1",
+  "option1": "Co to za ogromna arena walki?",
+  "option2": "Masz dla mnie jakąś pracę?",
+  "option3": "[SPRAWDŹ] Mam nagrody",
+  "parent": "dialogs_generic",
+  "response_endrivalry": "W końcu nasza rywalizacja dobiegła końca. Będę szczery, jednak przyjaciele Likor'a z TAR Bandit nie zapomną o tym; My również nie zapomnimy.",
+  "response_info": "Dlaczego nie pójdziesz i nie sprawdzisz, stary? Nigdy nie możemy odmówić nowemu gladiatorowi.",
+  "response_jobinprogress": "Nie, tylko nagroda, którą ci dałem.",
+  "response_joboffer": "Tak... mam. Jeśli mógłbyś załatwić mojego rywala, byłbym bardzo wdzięczny.",
+  "response_nowork": "Hm, nie ma tutaj żadnych nagród, które mógłbym przejąć, przepraszam."
+}

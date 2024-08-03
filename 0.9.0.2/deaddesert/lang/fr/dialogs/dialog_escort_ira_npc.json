@@ -1,0 +1,7 @@
+{
+  "dialog": "Vous n'êtes pas avec Sincorp, n'est-ce pas ? J'ai besoin de votre aide, mon fils a disparu... Je ne sais pas où il pourrait être... Peut-être que c'est ce Fort Axehead à l'est d'ici, ce sont vraiment des gens horribles.",
+  "name": "Escorter Ira",
+  "option1": "Non, je ne suis pas intéressé en ce moment.",
+  "option2": "Je vais vérifier.",
+  "parent": "dialogs_generic"
+}

@@ -1,0 +1,7 @@
+{
+  "dialog": "::: Initiating Greeting Routine...\r\n\r\nHello there <<species missing>>, I'm Walt 3000. One of 3 AI aids built to help my creators.\r\n\r\nHow can I help you today?",
+  "name": "Walt",
+  "option1": "What can you tell me about your purpose and your creators?",
+  "option2": "How can I make some cash?",
+  "option3": "[CHECK] Yeah sure, i'll pay it"
+}

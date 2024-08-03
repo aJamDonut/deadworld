@@ -1,0 +1,7 @@
+{
+  "dialog": "Qu'est-ce que c'est, punk ?",
+  "name": "Enlèvement du chef Axehead",
+  "option1": "Pas maintenant.",
+  "option2": "As-tu le fils d'Ira ?",
+  "parent": "dialogs_generic"
+}

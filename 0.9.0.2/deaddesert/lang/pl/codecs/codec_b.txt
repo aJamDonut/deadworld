@@ -1,0 +1,48 @@
+[Autor: The Bookmaker] [Rok: 4080]
+
+Jeśli nie zapiszę tego gdzieś, zapomnę! Zanim zacznę pisać moją kompletną historię kodeków kolonii, ustalę oś czasu, o której chcę pisać.		
+
+[3750] 
+Galaktyka nie jest już nieosiągalną pustką, teraz jest placem zabaw dla ludzkości. Ludzie kopali asteroidy i kolonizowali pobliskie planety przez ostatnie 500 lat. 
+Ziemia składa się z 3 wiodących narodów, Anglotetów z zachodu, Sinojese z wschodu i Niepodległych. 
+Ziemia jest głównie pokojowym miejscem, z wojnami toczonymi tylko pomiędzy prywatnymi organizacjami w całym układzie słonecznym o roszczenia do planet. 
+SinCorp jest największą firmą w układzie słonecznym, czerpiącą zyski z leków wydłużających życie, takich jak ExtendYoLyf. 
+Poprzez walkę o bilans księgowy, SinCorp stał się globalną dominującą siłą Ziemi i zapewnia współpracę 3 narodów oraz zachęca do różnorodności wśród swoich ludzi i produktów.
+
+[3800] 
+Klony ludzi zostały udoskonalone przez SinCorp, gdy opracowali formułę opartą na ExtendYoLife, nazwaną Mulch, która jest używana do tworzenia klonów. Ogłaszają plany rozpoczęcia masowej kolonizacji galaktyki przy użyciu tej nowej technologii.
+
+[3805] 
+Zaledwie 5 lat po udoskonaleniu technologii klonowania, korporacja wysłała ponad tysiąc statków kolonijnych daleko w przestrzeń, zaopatrzonych w ExtendYoLyf i ludzi znanych jako 'Założyciele' z 3 wiodących narodów, mających technologię do tworzenia podrzędnych klonów.
+
+[3900] 
+Statek kolonijny Zhuding-7, po 100 latach podróży na 200 lat świetlnych, doświadcza utraty sztucznej inteligencji kapitana statku i łączności z ziemią z powodu korupcji w ciemnej przestrzeni. 
+Alexander Wang, który urodził się podczas podróży, syn jednego z założycieli, staje na wysokości zadania, by uspokoić załogę i zorganizować ręczną interwencję w kontroli statku. 
+Wang odnosi sukces w przejęciu ręcznej kontroli nad statkiem i postanawia kontynuować kierunek w stronę docelowej planety. To pokazanie przywództwa przynosi mu przydomek 'Kapitan'.
+
+[4000] 
+Statek kolonijny Zhuding-7 ląduje na docelowej planecie. Atmosfera jest zdatna do oddychania, ale ziemia wydaje się jałowa i pozbawiona życia.
+
+[4010] 
+W ciągu 10 lat od kolonizacji stworzono pierwsze 100 klonów, kilka z klonów nie zostało w pełni stworzonych, ale pozostałe klony zaczynają pracować nad projektami ekologicznymi, aby zapewnić zrównoważone zaopatrzenie w żywność.
+
+[4050] 
+Kolonia zaczyna zwiększać produkcję klonów, ale na każde utworzone poczucie, nieudany klon zostaje wyrzucony. Problem nieudanego klonowania nigdy nie zostaje rozwiązany.
+
+[4052] 
+Wzrost napięć oraz czyny kilku nieudanych klonów sprawiają, że coraz więcej klonów zaczyna przechodzić do defacji i opuszczać korporację, co skutkuje powstawaniem obozów bandytów w pobliżu strefy lądowania, która w tym momencie jest małym miastem klonów, nazywanym 'Landzo'.
+
+[4060] 
+Wiele projektów ekologicznych kończy się niepowodzeniem, a zapasy żywności w kolonii zaczynają maleć. Większość klonów, a nawet założyciele, są zmuszeni do jedzenia Mulch, formuły do tworzenia klonów.
+
+[4075] 
+W związku z obawami o brak staranności korporacji i jej korupcję, założyciel o imieniu Kenshin Yamakai przechodzi na stronę opozycji i zakłada nową stację badawczą w północno-wschodniej części. 
+Asuna Li, córka Kapitana Wanga, później dołącza do Kenshina Yamakai w nadziei na opracowanie sposobu komunikacji z Ziemią. To obsesja, którą miała od kiedy słyszała o tym w dzieciństwie.
+
+[4078] 
+Wyznawcy Yamakai odnoszą sukces w tworzeniu swojego własnego małego ogrodu eden w tej planecie, ale prośby Asuny o większe wysiłki w komunikacji z ziemią są ignorowane.
+
+[4080] 
+Asuna Li opuszcza Yamakai po nieudanych próbach przeniesienia wysiłków badawczych z projektów ekologicznych na projekty komunikacyjne, zabierając ze sobą skradzioną technologię klonowania i dwóch klonów dla ochrony. 
+Asuna zakłada oboz badawczy na zachodzie i zaczyna produkować klony do swoich wysiłków komunikacyjnych. 
+Oboz regularnie kradnie z SinCorp i został okrzyknięty Dusterami przez SinCorp. Wszyscy Dusterzy są poszukiwani przez SinCorp za przestępstwa kradzieży technologii.

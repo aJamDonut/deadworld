@@ -1,0 +1,13 @@
+{
+  "dialog": "Psst ! Viens ici, mon pote.",
+  "name": "Mission de contrebande de Redtown",
+  "option1": "Quel est cet endroit ?",
+  "option2": "As-tu du travail pour moi ?",
+  "option3": "À quoi ressemble 'ce gars' ?",
+  "parent": "dialogs_generic",
+  "response_drumleydesc": "Il y a ces gars au nord, ils s'appellent 'Drumley'. En gros, ils ont une étrange passion pour les fûts. Surtout ce gars là ! Des fûts d'alcool, des corps, de l'acide, vides, peu importe, il les veut. Si tu devais lui en livrer un, il te paierait grassement.",
+  "response_godeliver": "Tu as déjà un fût, va le livrer.",
+  "response_guydesc": "Ils portent une chemise verte et un chapeau de fermier.",
+  "response_sinbarrels": "C'est ici que maudit Sincorp garde tous leurs maudits fûts, mon pote !",
+  "response_whatguy": "Quel gars ?"
+}

@@ -1,0 +1,12 @@
+{
+  "dialog": "Shhh. Estoy escondido aquí. Estoy tan harto de trabajar duro para estos idiotas y no ganar nada para mí. Mira, ¿quizás puedas demostrar tu valía? Si me pagas 100 me uniré a ti.",
+  "name": "Recluta Tutty",
+  "option1": "No quiero pagar eso",
+  "option2": "¿Cómo puedo ganar algo de dinero?",
+  "option3": "[VERIFICAR] Claro, lo pagaré",
+  "parent": "dialogs_generic",
+  "response_cantafford": "No puedes permitirte esto ahora mismo",
+  "response_changemind": "Está bien, avísame si cambias de opinión",
+  "response_letsgo": "¡Genial, entonces vamos!",
+  "response_moneyinfo": "Oh, hay muchas maneras de ganar algo de dinero en efectivo, puedes vender recursos, completar recompensas o vender botín viejo, por nombrar algunas formas..."
+}

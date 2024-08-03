@@ -1,0 +1,11 @@
+{
+  "dialog": "Najlepsze towary w okolicy, mój przyjacielu!",
+  "name": "Wiejski kupiec",
+  "option1": "Zamieńmy się, chłopcze.",
+  "option2": "Dlaczego jest tu tak wiele beczek?",
+  "option3": "Dlaczego macie pokój pełen krzeseł?",
+  "parent": "dialogs_generic",
+  "response_alcohol": "*Hick* To nasze stowarzyszenie alkoholików anonimowych... *Hick* Powinieneś do nas dołączyć kiedyś...",
+  "response_barrels": "Heh... Myślałbyś, że są pełne oleju, a to wszystko kwas. Rozpuszczamy w nich wszystkie martwe ciała.",
+  "response_nothingtosell": "Przykro mi, bubba, teraz nie mam nic dla ciebie."
+}

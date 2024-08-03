@@ -1,0 +1,9 @@
+{
+  "dialog": "Meilleures salutations, Beaucoup de marchandises pour ceux qui osent !",
+  "name": "Commerçant de Kolozium",
+  "option1": "As-tu des marchandises pour moi ?",
+  "option2": "Qui es-tu ?",
+  "parent": "dialogs_generic",
+  "response_info": "Je suis juste un vieil homme accomplissant son devoir ancien, idiot...",
+  "response_nothingtosell": "Je n'ai rien à te vendre en ce moment."
+}

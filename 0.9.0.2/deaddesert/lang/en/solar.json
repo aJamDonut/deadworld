@@ -1,0 +1,14 @@
+{
+  "body_interference": "{body} Interference: {amount} {percent}%",
+  "current_season": "Season: {season}",
+  "main_planet": "Dead Desert",
+  "main_planet_moon": "Goe",
+  "orbit_period_hours": "Orbit Period: {period}h",
+  "red_star": "Arret",
+  "season_heatwave": "Heatwave",
+  "season_spring": "Spring",
+  "season_summer": "Summer",
+  "season_void": "Void",
+  "season_winter": "Winter",
+  "yellow_star": "Poz"
+}

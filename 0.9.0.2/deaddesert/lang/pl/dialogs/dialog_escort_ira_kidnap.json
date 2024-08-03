@@ -1,0 +1,8 @@
+{
+  "dialog": "Wróciłeś z Fortu Axehead! Czy znalazłeś mojego syna?",
+  "name": "Eskapada Ira Kidnap",
+  "option1": "Nie, miałeś rację; To straszni ludzie... Nawet oferowali mi pieniądze, aby cię uprowadzić.",
+  "option2": "Twój syn tam jest! Chodź, szybko, mogę cię tam bezpiecznie zabrać i będziecie razem!",
+  "option3": "Nie teraz.",
+  "parent": "dialogs_generic"
+}

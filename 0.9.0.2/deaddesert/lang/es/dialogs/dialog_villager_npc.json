@@ -1,0 +1,11 @@
+{
+  "dialog": "¿Qué quieres?",
+  "name": "Aldeano",
+  "option1": "¿Qué es este lugar?",
+  "option2": "¿Cuánta madera podría tirar una marmota?",
+  "option3": "¿Quién construyó este lugar, un troglodita?",
+  "parent": "dialogs_generic",
+  "response_fight": "Vas a caer.",
+  "response_village": "Esta es nuestra aldea; Es pintoresca, ¿no?",
+  "response_woodchuck": "¡Alrededor de 600 lbs, tonto!"
+}

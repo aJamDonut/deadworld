@@ -1,0 +1,13 @@
+{
+  "dialog": "Je suis le barman du Kolozium... Pas Mallie !",
+  "name": "Barman du Kolozium 2",
+  "option1": "Qui est Mallie ?",
+  "option2": "As-tu du travail pour moi ?",
+  "option3": "[VÉRIFIER] J'ai des primes",
+  "parent": "dialogs_generic",
+  "response_endrivalry": "Tu as mis assez de temps, punk ! Mais ne t'inquiète pas, les TAR Bandits n'oublieront pas ça ; ni les gladiateurs.",
+  "response_info": "Mon Rival... Stupide Ex-Gladiateur...",
+  "response_jobinprogress": "Non, juste la prime que je t'ai donnée.",
+  "response_joboffer": "Oui, punk. Si tu abats ce fou appelé Mallie au nord, je ferai une bonne recommandation auprès des TAR Bandits.",
+  "response_nowork": "Hm, il n'y a pas de primes ici que je peux régler, désolé."
+}

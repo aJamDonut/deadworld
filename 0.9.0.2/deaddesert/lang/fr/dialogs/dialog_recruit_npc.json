@@ -1,0 +1,9 @@
+{
+  "dialog": "J'en ai marre de cet endroit. Les tâches répétitives, travailler pour un maître et ne rien obtenir pour tout ce travail acharné. Écoute, si tu es intéressé par quelqu'un qui te rejoint, fais-le moi savoir. Je te rejoindrai pour juste m1 000.",
+  "name": "Recruter un PNJ",
+  "option1": "Non, je ne suis pas intéressé en ce moment.",
+  "option2": "[CHECK] Oui, bien sûr, je paierai les m1000",
+  "response_cantafford": "Tu ne peux pas te le permettre en ce moment",
+  "response_letsgo": "Super, allons-y alors !",
+  "response_yourloss": "D'accord, tant pis pour toi mon pote"
+}

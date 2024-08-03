@@ -1,0 +1,7 @@
+{
+  "dialog": "¿Qué pasa, gánster?",
+  "name": "Secuestro del hijo del Jefe Hacha",
+  "option1": "No ahora.",
+  "option2": "¿Tienes al hijo de Ira?",
+  "parent": "dialogs_generic"
+}

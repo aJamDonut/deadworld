@@ -1,0 +1,9 @@
+{
+  "dialog": "Mejores saludos, ¡Muchas mercancías para quienes se atrevan!",
+  "name": "Tendero de Kolozium",
+  "option1": "¿Tienes alguna mercancía para mí?",
+  "option2": "¿Quién eres?",
+  "parent": "dialogs_generic",
+  "response_info": "Solo soy un anciano cumpliendo con su antiguo deber, tonto...",
+  "response_nothingtosell": "No tengo nada para ti en este momento."
+}

@@ -1,0 +1,10 @@
+{
+  "dialog": "Salut ! Es-tu ici pour les Alcooliques Anonymes ?",
+  "name": "Le gars du tonneau Drumley",
+  "option1": "Qui es-tu ?",
+  "option2": "J'ai peut-être quelque chose pour toi",
+  "parent": "dialogs_generic",
+  "response_appreciation": "Gardons cela entre nous. Je l'apprécie.",
+  "response_info": "Je dirige cet endroit, nous nous rencontrons le lundi.",
+  "response_nothing": "Tu n'as rien qui m'intéresse."
+}

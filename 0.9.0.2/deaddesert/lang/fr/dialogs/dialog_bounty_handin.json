@@ -1,0 +1,10 @@
+{
+  "dialog": "Nous avons pas mal de primes à saisir en ce moment. Certains véritables cas désespérés dont nous devons nous occuper. Si vous collectez des primes, ramenez-les ici.",
+  "name": "Remise de primes",
+  "option1": "Qu'est-ce qu'une prime ? Comment en trouver une ?",
+  "option2": "[VÉRIFIER] J'ai des primes",
+  "parent": "dialogs_generic",
+  "response_bountyinfo": "Vous pouvez trouver des avis de prime dans le désert. Tuez simplement la cible, collectez sa tête et rapportez-la moi",
+  "response_nicework": "Beau travail, voici votre paiement",
+  "response_nobounties": "Hm, il n'y a pas de primes ici dont je peux m'occuper, désolé."
+}

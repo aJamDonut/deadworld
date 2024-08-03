@@ -1,0 +1,9 @@
+{
+  "dialog": "I want to be soo pretty, but I'm just an ugly clone :(. I once saw a lady in a dress. She was so beautiful! I wish I was a human and could have nice things.",
+  "name": "Atlas Wants a Dress",
+  "option1": "You're just a clone. You don't need a dress.",
+  "option2": "[CHECK] Do I have a dress?",
+  "response_nodress": "You don't have a dress :( Maybe you could find one in an armour shop.",
+  "response_somean": "Maybe you're right... No need to be so mean about it though. :(",
+  "response_thanks": "OMG WOW! Thank you! Hey listen, I'll help you with anything you want from now on! Just ask!"
+}

@@ -1,0 +1,11 @@
+{
+  "dialog": "Wow, I see fresh meat.",
+  "name": "Kolozium Villager",
+  "option1": "What is this place?",
+  "option2": "What is there to do here?",
+  "option3": "Why did you call me a fool?",
+  "response_fool": "Because you're a fool! Ask anybody else here, I promise they'll say so too... fool!",
+  "response_towninfo": "This is kolozium, we fight in the dome... fool!",
+  "response_whatdo": "I'm sure one day you'll be able to fight as a gladiator... ;) Otherwise stear clear of TAR bandits... fool!",
+  "response_whyfool": "I never called you a fool?"
+}

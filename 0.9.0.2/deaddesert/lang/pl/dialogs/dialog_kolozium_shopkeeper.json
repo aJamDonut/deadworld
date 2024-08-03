@@ -1,0 +1,9 @@
+{
+  "dialog": "Najlepsze pozdrowienia, Wiele towarów dla tych, którzy się odważą!",
+  "name": "Sprzedawca Kolozium",
+  "option1": "Masz dla mnie jakieś towary?",
+  "option2": "Kim jesteś?",
+  "parent": "dialogs_generic",
+  "response_info": "Jestem tylko starym człowiekiem wypełniającym swój starożytny obowiązek, głupcze...",
+  "response_nothingtosell": "Nie mam nic dla ciebie teraz."
+}

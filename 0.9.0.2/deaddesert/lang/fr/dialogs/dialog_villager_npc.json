@@ -1,0 +1,11 @@
+{
+  "dialog": "Qu'est-ce que tu veux ?",
+  "name": "Villageois",
+  "option1": "Quel est cet endroit ?",
+  "option2": "Combien de bois un marmiton pourrait-il jeter ?",
+  "option3": "Qui a construit cet endroit, un troglodyte ?",
+  "parent": "dialogs_generic",
+  "response_fight": "Tu vas tomber.",
+  "response_village": "C'est notre village ; Il est charmant, non ?",
+  "response_woodchuck": "Environ 600 lbs, espèce d'imbécile !"
+}

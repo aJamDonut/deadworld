@@ -1,0 +1,9 @@
+[ Auteur : Adam Dougherty ] [ Année : 2020 ]  
+Bienvenue dans Dead Desert.  
+Le jeu est encore très tôt dans son développement.  
+Vous rencontrerez de nombreux bugs !  
+J'espère que vous apprécierez toujours le jeu et découvrirez quelque chose de cool.  
+COMMENT JOUER :  
+Utilisez la souris pour faire un clic droit et vous déplacer où vous le souhaitez.  
+Parlez aux PNJ, pillez des conteneurs et découvrez où vous êtes.  
+Entrez dans le monde et forgez votre propre chemin.  

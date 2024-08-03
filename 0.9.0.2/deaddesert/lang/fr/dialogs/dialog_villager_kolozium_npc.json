@@ -1,0 +1,12 @@
+{
+  "dialog": "Wow, je vois de la viande fraîche.",
+  "name": "Villageois Kolozium",
+  "option1": "Quel est cet endroit ?",
+  "option2": "Qu'est-ce qu'il y a à faire ici ?",
+  "option3": "Pourquoi m'as-tu traité de fool ?",
+  "parent": "dialogs_generic",
+  "response_fool": "Parce que tu es un imbécile ! Demande à n'importe qui ici, je te promets qu'ils le diront aussi... imbécile !",
+  "response_towninfo": "C'est kolozium, nous nous battons dans le dôme... imbécile !",
+  "response_whatdo": "Je suis sûr qu'un jour tu pourras te battre en tant que gladiateur... ;) Sinon, évite les bandits TAR... imbécile !",
+  "response_whyfool": "Je ne t'ai jamais traité d'imbécile ?"
+}

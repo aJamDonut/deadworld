@@ -1,0 +1,11 @@
+{
+  "dialog": "Tu presencia me molesta.",
+  "name": "Aldeano Hacha",
+  "option1": "¿Qué es este lugar?",
+  "option2": "¿Cuánta madera podría tirar un marmota?",
+  "option3": "¿Cuántos clones se necesitan para matar a un aldeano estúpido?",
+  "parent": "dialogs_generic",
+  "response_axehead": "Esta es Fort Axehead, la mejor de las tres aldeas.",
+  "response_fight": "Vas a caer.",
+  "response_woodchuck": "Alrededor de 600 lbs, ¡tonto!"
+}

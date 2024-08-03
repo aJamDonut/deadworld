@@ -1,0 +1,9 @@
+{
+  "dialog": "We've got quite a few bounties up for grabs right now. Some real down and outs we need taking care of. If you collect any bounties bring 'em back here.",
+  "name": "Bounty Hand In",
+  "option1": "What's a bounty? How do I find one",
+  "option2": "[CHECK] I have bounties",
+  "response_bountyinfo": "You can find bounty notices around the wasteland. Simply kill the target, collect their head and bring it back to me",
+  "response_nicework": "Nice work, heres your payment",
+  "response_nobounties": "Hm, there are no bounties here that I can take care of, sorry."
+}

@@ -1,0 +1,12 @@
+{
+  "dialog": "Im Koloziums bartender... Not Mallie!",
+  "name": "Kolozium Barkeep 2",
+  "option1": "Who is Mallie?",
+  "option2": "Have you got any work for me?",
+  "option3": "[CHECK] I have bounties",
+  "response_endrivalry": "Took you long enough, punk! But don't worry, the TAR Bandits won't forget about this; Neither will the gladiators.",
+  "response_info": "My Rival... Stupid Ex-Gladiator...",
+  "response_jobinprogress": "Nope, just the bounty that I gave 'ya.",
+  "response_joboffer": "Yes, punk. If you whack that fool called Mallie up north, I'll relay a good word upto the TAR Bandits.",
+  "response_nowork": "Hm, there are no bounties here that I can take care of, sorry."
+}

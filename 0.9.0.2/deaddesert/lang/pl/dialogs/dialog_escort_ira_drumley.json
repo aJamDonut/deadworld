@@ -1,0 +1,7 @@
+{
+  "dialog": "Czy byłbyś skłonny pomóc mi dotrzeć do bezpieczeństwa w Drumley? Na drogach nie jest bezpiecznie.",
+  "name": "Eskorta Ira drumley",
+  "option1": "Nie, nie jestem teraz zainteresowany.",
+  "option2": "Pewnie, chodźmy.",
+  "parent": "dialogs_generic"
+}

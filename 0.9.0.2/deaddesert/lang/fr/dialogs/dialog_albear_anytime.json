@@ -1,0 +1,8 @@
+{
+  "dialog": "Et avant que vous ne commenciez à penser que je suis coincé dans le sol quelque part comme une petite créature à têtes qui rebondissent, alors vous avez tort. Je pourrais vous donner 100 essais pour deviner où je suis et vous auriez toujours tort.",
+  "name": "Albear Anytime",
+  "option1": "Es-tu une mutation d'un clone existant qui a une croissance de 3 têtes sur le côté de sa tête et cette croissance c'est toi ?",
+  "option2": "Je ne me soucie pas beaucoup que tu envahisses mon esprit.",
+  "option3": "[VÉRIFIER] Ouais, bien sûr, je vais le payer",
+  "parent": "dialogs_generic"
+}

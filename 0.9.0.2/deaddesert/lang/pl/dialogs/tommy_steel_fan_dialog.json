@@ -1,0 +1,9 @@
+{
+  "dialog": "TO ON, TO TOMMY STEEL! TO 'FEEL THE STEEL'! Nie mogę w to uwierzyć... Tommy Steel, tutaj? W Landzo City??!",
+  "name": "dialog fan tommy steel",
+  "option1": "Kim jest ten gość?",
+  "option2": "Jak ten gość w ogóle stał się znany?",
+  "parent": "dialogs_generic",
+  "response_famous": "Stać się sławnym? Nie wiem! Jego filmy są chore!",
+  "response_steelinfo": "Kim jest ten facet ??? Cóż, jest tylko numerem jeden wśród transplanetarnych gwiazd filmowych!"
+}

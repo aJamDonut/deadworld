@@ -1,0 +1,14 @@
+{
+  "body_interference": "{body} Interferencia: {amount} {percent}%",
+  "current_season": "Temporada: {season}",
+  "main_planet": "Desierto Muerto",
+  "main_planet_moon": "Goe",
+  "orbit_period_hours": "Período de Órbita: {period}h",
+  "red_star": "Arret",
+  "season_heatwave": "Ola de Calor",
+  "season_spring": "Primavera",
+  "season_summer": "Verano",
+  "season_void": "Vacío",
+  "season_winter": "Invierno",
+  "yellow_star": "Poz"
+}

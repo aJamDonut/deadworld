@@ -1,0 +1,9 @@
+{
+  "dialog": "Hazlo rápido.",
+  "name": "Tendero de Hacha",
+  "option1": "¿Podemos comerciar?",
+  "option2": "¿Qué pasa con los enormes muros?",
+  "parent": "dialogs_generic",
+  "response_nothingtosell": "Mala suerte, no tengo nada para ti",
+  "response_walls": "Así podemos protegernos de nuestros vecinos pútridos, algún día... entenderás."
+}

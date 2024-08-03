@@ -1,0 +1,7 @@
+{
+  "dialog": "Des chiffres ! Des données... ajoutez un, multipliez par trois, n'oubliez pas le café, n'oubliez jamais le café ! N'oubliez jamais le sucre, n'oubliez jamais le sucre !",
+  "name": "Employé de bureau",
+  "option1": "Ça va ?",
+  "parent": "dialogs_generic",
+  "response_derangedworker": "Je suis super ! Quelqu'un a dit bonbons ? Sucre ! N'oubliez pas le sucre !"
+}

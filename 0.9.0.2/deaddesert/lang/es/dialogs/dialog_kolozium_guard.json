@@ -1,0 +1,7 @@
+{
+  "dialog": "¿En qué frente enfermo he servido para ser emparejado contigo?",
+  "name": "Guardia Kolozium",
+  "option1": "¿Quién eres?",
+  "parent": "dialogs_generic",
+  "response_guard": "Yo no soy menos que un devoto del arte sagrado... ¡tonto!"
+}

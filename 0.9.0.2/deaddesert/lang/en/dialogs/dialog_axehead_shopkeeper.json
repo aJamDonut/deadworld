@@ -1,0 +1,8 @@
+{
+  "dialog": "Make it quick.",
+  "name": "Axehead Shopkeeper",
+  "option1": "Can we trade?",
+  "option2": "What's with the huge walls?",
+  "response_nothingtosell": "Tough luck, I aint got nun for ya",
+  "response_walls": "So we can protect against our putrid neighbors, one day... you'll understand."
+}

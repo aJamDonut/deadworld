@@ -1,0 +1,9 @@
+{
+  "dialog": "Mam dość tego miejsca. Powtarzających się zadań, pracy dla mistrza i nie otrzymywania nic za tę ciężką pracę. Patrz, jeśli jesteś zainteresowany, aby ktoś do ciebie dołączył, daj mi znać. Dołączę do ciebie za m1,000.",
+  "name": "Rekrut NPC",
+  "option1": "Nie, teraz nie jestem zainteresowany.",
+  "option2": "[CHECK] Tak, pewnie, zapłacę m1000",
+  "response_cantafford": "Nie stać cię na to teraz",
+  "response_letsgo": "Świetnie, to chodźmy!",
+  "response_yourloss": "Okay, twoja strata, kolego"
+}

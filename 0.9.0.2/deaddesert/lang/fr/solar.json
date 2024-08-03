@@ -1,0 +1,14 @@
+{
+  "body_interference": "{body} Interférence : {amount} {percent}%",
+  "current_season": "Saison : {season}",
+  "main_planet": "Désert Mort",
+  "main_planet_moon": "Goe",
+  "orbit_period_hours": "Période d'orbite : {period}h",
+  "red_star": "Arret",
+  "season_heatwave": "Vague de chaleur",
+  "season_spring": "Printemps",
+  "season_summer": "Été",
+  "season_void": "Vide",
+  "season_winter": "Hiver",
+  "yellow_star": "Poz"
+}

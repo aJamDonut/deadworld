@@ -1,0 +1,7 @@
+{
+  "dialog": "Liczby! Dane... dodaj jeden, pomnóż przez trzy, nie zapomnij o kawie, nigdy nie zapomnij o kawie! Nigdy nie zapomnij o cukrze, nigdy nie zapomnij o cukrze!",
+  "name": "Pracownik biurowy",
+  "option1": "Czy wszystko w porządku?",
+  "parent": "dialogs_generic",
+  "response_derangedworker": "Mam się świetnie! Czy ktoś powiedział cukierki? Cukier! Nie zapomnij o cukrze!"
+}

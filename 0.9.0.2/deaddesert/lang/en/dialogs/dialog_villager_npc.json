@@ -1,0 +1,10 @@
+{
+  "dialog": "Whaddya want?",
+  "name": "Villager",
+  "option1": "What is this place?",
+  "option2": "How much wood could a woodchuck chuck?",
+  "option3": "Who built this place, a troglodyte?",
+  "response_fight": "You're going down.",
+  "response_village": "This is our village; It's quaint, no?",
+  "response_woodchuck": "About 600 lbs, ya fool!"
+}

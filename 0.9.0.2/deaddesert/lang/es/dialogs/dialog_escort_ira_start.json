@@ -1,0 +1,6 @@
+{
+  "dialog": "Hola cariño, ¿cómo estás hoy?",
+  "name": "Inicio de Escort Ira",
+  "option1": "Solo estoy verificando.",
+  "parent": "dialogs_generic"
+}

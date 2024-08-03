@@ -1,0 +1,12 @@
+{
+  "dialog": "Psst! Come here, pal.",
+  "name": "Redtown Smuggle Mission",
+  "option1": "What is this place?",
+  "option2": "Have you got any work for me?",
+  "option3": "What does 'this guy' look like?",
+  "response_drumleydesc": "There are these guys up north, they call themselves 'Drumley'. Basically, they got some weird love for barrels. Especially this guy! Barrels of booze, bodies, acid, empty, you name it, he wants it. If you were to deliver one to him, he'd pay you handsomely.",
+  "response_godeliver": "You've already got a barrel, go deliver it.",
+  "response_guydesc": "They wear a green shirt and a farmer's hat.",
+  "response_sinbarrels": "This is where darn Sincorp keeps all their doggone barrels, buddy!",
+  "response_whatguy": "What guy?"
+}

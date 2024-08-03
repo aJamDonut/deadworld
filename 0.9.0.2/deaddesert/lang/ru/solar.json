@@ -1,0 +1,14 @@
+{
+  "body_interference": "{body} Интерференция: {amount} {percent}%",
+  "current_season": "Сезон: {season}",
+  "main_planet": "Мёртвый Пустыня",
+  "main_planet_moon": "Гое",
+  "orbit_period_hours": "Период Орбиты: {period}ч",
+  "red_star": "Аррет",
+  "season_heatwave": "Жара",
+  "season_spring": "Весна",
+  "season_summer": "Лето",
+  "season_void": "Пустота",
+  "season_winter": "Зима",
+  "yellow_star": "Поз"
+}

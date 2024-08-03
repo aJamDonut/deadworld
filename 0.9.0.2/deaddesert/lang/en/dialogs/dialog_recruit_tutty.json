@@ -1,0 +1,11 @@
+{
+  "dialog": "Psssst. I'm hiding in here. I'm so fed up of working hard for these smucks making nothing for myself. Look, maybe you can prove yourself? If you can pay me 100 I'll join you.",
+  "name": "Recruit Tutty",
+  "option1": "I don't want to pay that",
+  "option2": "How can I make some cash?",
+  "option3": "[CHECK] Yeah sure, i'll pay it",
+  "response_cantafford": "You can't afford this right now",
+  "response_changemind": "Okay well let me know if you change your mind",
+  "response_letsgo": "Great, let's go then!",
+  "response_moneyinfo": "Oh there are loads of ways to make some hard cash, you can sell resources, complete bounties or sell old loot to name a few ways..."
+}

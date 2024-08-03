@@ -1,0 +1,10 @@
+{
+  "dialog": "Je suis le visage de Drumley mon pote, tu ne veux pas perdre mon temps... Sinon.",
+  "name": "Chef Drumley",
+  "option1": "Pourquoi cet endroit s'appelle-t-il Drumley ?",
+  "option2": "As-tu du travail pour moi ?",
+  "parent": "dialogs_generic",
+  "response_bounty": "Dis-moi, ce fool terrorise notre ville depuis des années... Si tu venais à le supprimer, nous te serions bien reconnaissants, partenaire.",
+  "response_drumley": "Tu ne vois pas tous les fûts autour ? Ce sont des tambours, non ?",
+  "response_gogethim": "Que fais-tu ici, punk ? Vas-y, va le chercher !"
+}

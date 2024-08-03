@@ -1,0 +1,6 @@
+{
+  "dialog": "01010:: Beginning human interaction routine... \r\n10010:: Scanning. You are an unregistered clone\r\n01000:: Identify",
+  "name": "DocoBot Start",
+  "option1": "...what?",
+  "terminate": "01100:: Identity failed. Terminate!"
+}

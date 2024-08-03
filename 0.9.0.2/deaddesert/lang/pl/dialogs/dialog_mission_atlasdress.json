@@ -1,0 +1,10 @@
+{
+  "dialog": "Chcę być taka piękna, ale jestem tylko brzydkim klonem :(. Kiedyś widziałam kobietę w sukience. Była taka piękna! Chciałabym być człowiekiem i mieć ładne rzeczy.",
+  "name": "Atlas chce sukienkę",
+  "option1": "Jesteś tylko klonem. Nie potrzebujesz sukienki.",
+  "option2": "[CHECK] Czy mam sukienkę?",
+  "parent": "dialogs_generic",
+  "response_nodress": "Nie masz sukienki :( Może znajdziesz jedną w sklepie z zbroją.",
+  "response_somean": "Może masz rację... Ale nie musisz być w tym tak złośliwy. :(",
+  "response_thanks": "OMG WOW! Dziękuję! Słuchaj, od teraz pomogę ci w każdej rzeczy, której chcesz! Po prostu zapytaj!"
+}

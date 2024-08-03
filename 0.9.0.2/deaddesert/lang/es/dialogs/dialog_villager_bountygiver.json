@@ -1,0 +1,10 @@
+{
+  "dialog": "Soy la cara de Drumley, amigo, no querrás perder mi tiempo... O habrá consecuencias.",
+  "name": "Jefe Drumley",
+  "option1": "¿Por qué se llama este lugar Drumley?",
+  "option2": "¿Tienes algún trabajo para mí?",
+  "parent": "dialogs_generic",
+  "response_bounty": "Te diré algo, este tonto ha estado aterrorizando nuestro pueblo durante años... Si lo eliminaras, te estaríamos muy agradecidos, socio.",
+  "response_drumley": "¿No ves todos los barriles alrededor? Son tambores, ¿no?",
+  "response_gogethim": "¿Qué haces de regreso aquí, pandillero? ¡Ve a atraparlo!"
+}

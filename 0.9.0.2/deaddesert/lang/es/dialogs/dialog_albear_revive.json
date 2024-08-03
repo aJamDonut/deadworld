@@ -1,0 +1,8 @@
+{
+  "dialog": "Vaya, parece que estás en un aprieto. Sería una pena ver morir a un buen clon como tú.\r\n\r\nTe diré algo, ¿qué te parece una pequeña mutación a cambio de la resurrección?",
+  "name": "Albear Revive",
+  "option1": "Está bien, hazlo.",
+  "option2": "Hazlo y llévame de aquí.",
+  "option3": "No, déjalo muerto.",
+  "parent": "dialogs_generic"
+}

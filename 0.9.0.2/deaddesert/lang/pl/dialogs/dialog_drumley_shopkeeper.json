@@ -1,0 +1,8 @@
+{
+  "dialog": "Najlepsze towary w okolicy, przyjacielu!",
+  "name": "Sprzedawca Drumley",
+  "option1": "Zamieńmy się, kolego.",
+  "option2": "Czemu wokół jest tyle beczek?",
+  "option3": "Czemu macie pokój pełen krzeseł?",
+  "parent": "dialogs_generic"
+}

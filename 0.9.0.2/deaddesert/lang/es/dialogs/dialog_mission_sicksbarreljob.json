@@ -1,0 +1,10 @@
+{
+  "dialog": "¡Hola! ¿Estás aquí para los Anónimos Alcoholicos?",
+  "name": "El tipo del barril Drumley",
+  "option1": "¿Quién eres?",
+  "option2": "Podría tener algo para ti",
+  "parent": "dialogs_generic",
+  "response_appreciation": "Mantengamos esto solo entre tú y yo. Lo aprecio.",
+  "response_info": "Yo dirijo este lugar, nos reunimos los lunes.",
+  "response_nothing": "No tienes nada en lo que esté interesado."
+}

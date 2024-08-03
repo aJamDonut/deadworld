@@ -1,0 +1,8 @@
+{
+  "dialog": "A zanim pomyślisz, że utknąłem gdzieś w ziemi jak jakiś mały stworzonko podskakujące, to się mylisz. Mogę dać ci 100 prób, by zgadnąć, gdzie jestem, a nadal będziesz w błędzie.",
+  "name": "Albear",
+  "option1": "Czy jesteś mutacją istniejącego klona, który ma trzy głowy po boku swojej głowy, a ta głowa to ty?",
+  "option2": "Nie obchodzi mnie zbytnio, że wkradasz się w mój umysł.",
+  "option3": "[CHECK] Tak, jasne, zapłacę za to",
+  "parent": "dialogs_generic"
+}

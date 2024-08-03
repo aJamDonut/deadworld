@@ -1,0 +1,15 @@
+{
+  "crazy_founder": "Fondateur Fou",
+  "crazy_founder_desc": "[Difficulté : Facile] Vous en avez assez de la vie ennuyeuse à Landzo. Vous et quelques-uns de vos clones serviteurs vous retrouvez dans les anciennes ruines d'un laboratoire Sincorp. Pouvez-vous commencer à reconstruire cette structure autrefois animée ?",
+  "discarded_clone": "Clone Rejeté",
+  "discarded_clone_desc": "[Difficulté : Moyenne] Commencez en tant que clone rejeté. Vous n'étiez même pas désiré par vos créateurs en raison du manque de qualités personnelles impressionnantes, relevez le défi de survivre dans un monde où tout vous voit comme une cible facile.",
+  "escaped_clone": "Clone Échappé",
+  "escaped_clone_desc": "[Difficulté : Moyenne] Commencez en tant que clone échappé vous trouvant déjà parmi les dunes et les créatures du reset.",
+  "human_founder_offspring": "Descendance de Fondateur Humain",
+  "human_founder_offspring_desc": "[Facile] Commencez en tant que descendance d'un fondateur humain et tous les avantages qui viennent avec le fait d'être humain. Commencez avec votre propre clone qui suit tous vos ordres ainsi qu'un large héritage.",
+  "life_electric": "Vie Électrique",
+  "life_electric_desc": "[Facile] Commencez en tant que Robot MK 1 qui a soudainement gagné en conscience tout en effectuant les tâches quotidiennes habituelles dans la ville de Landzo.",
+  "one_of_the_lokals": "Un des Lokals",
+  "one_of_the_lokals_desc": "[Difficile] Commencez en tant que Lokal, un habitant du désert, équipé de connaissances uniques pour survivre mais détesté par tous les humanoïdes.",
+  "spawnPoint_default": "Le Par défaut"
+}

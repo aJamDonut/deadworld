@@ -1,0 +1,9 @@
+{
+  "dialog": "Fais vite.",
+  "name": "Marchand de haches",
+  "option1": "Pouvons-nous échanger?",
+  "option2": "Pourquoi ces énormes murs?",
+  "parent": "dialogs_generic",
+  "response_nothingtosell": "Dur à avaler, je n'ai rien pour toi",
+  "response_walls": "Ainsi nous pouvons nous protéger contre nos voisins putrides, un jour... tu comprendras."
+}

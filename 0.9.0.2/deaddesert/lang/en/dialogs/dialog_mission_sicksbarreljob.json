@@ -1,0 +1,9 @@
+{
+  "dialog": "Hey! Are you here for Alcoholic's Anonymous?",
+  "name": "Drumley Barrel guy",
+  "option1": "Who are you?",
+  "option2": "I might have something for you",
+  "response_appreciation": "Let's keep this just between you and me. I appreciate it.",
+  "response_info": "I run this place, we meet on mondays.",
+  "response_nothing": "You have nothing that I am interested in."
+}

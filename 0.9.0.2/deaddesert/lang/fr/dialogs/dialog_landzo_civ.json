@@ -1,0 +1,9 @@
+{
+  "dialog": "Pourquoi me déranges-tu ?",
+  "name": "Landzo Civ",
+  "option1": "Quel est cet endroit ?",
+  "option2": "Comment peux-tu vivre ici ? Cet endroit est une décharge !",
+  "parent": "dialogs_generic",
+  "response_overlords": "Dis-le à nos seigneurs...",
+  "response_towninfo": "Sincorp aime l'appeler leur bijou du désert mort..."
+}

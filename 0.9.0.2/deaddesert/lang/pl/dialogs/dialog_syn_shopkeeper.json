@@ -1,0 +1,7 @@
+{
+  "dialog": "Zbieram. Sprzedaję... Czego chcesz?",
+  "name": "Sprzedawca",
+  "option1": "Zamieńmy się",
+  "parent": "dialogs_generic",
+  "nothing_to_sell": "Wygląda na to, że nie mam teraz nic na sprzedaż."
+}

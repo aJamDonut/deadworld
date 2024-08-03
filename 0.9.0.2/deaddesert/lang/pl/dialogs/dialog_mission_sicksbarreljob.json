@@ -1,0 +1,10 @@
+{
+  "dialog": "Hej! Czy jesteś tutaj z powodu Anonimowych Alkoholików?",
+  "name": "Facet od Kija Drumley'a",
+  "option1": "Kim jesteś?",
+  "option2": "Może mam coś dla ciebie",
+  "parent": "dialogs_generic",
+  "response_appreciation": "Zachowajmy to tylko między sobą. Doceniam to.",
+  "response_info": "Ja prowadzę to miejsce, spotykamy się w poniedziałki.",
+  "response_nothing": "Nie masz nic, co by mnie interesowało."
+}

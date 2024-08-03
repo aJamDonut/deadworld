@@ -1,0 +1,9 @@
+{
+  "dialog": "¡ES ÉL, ¡ES TOMMY STEEL! ¡ES 'SIENTE EL ACERO'! No puedo creerlo... ¿Tommy Steel, aquí? ¿En la Ciudad de Landzo??!",
+  "name": "diálogo del fan de tommy steel",
+  "option1": "¿Quién es ese tipo?",
+  "option2": "¿Cómo se hizo famoso este tipo?",
+  "parent": "dialogs_generic",
+  "response_famous": "¿Hacerse famoso? ¡No lo sé! ¡Pero sus películas son increíbles!",
+  "response_steelinfo": "¿Quién es ese tipo??? Bueno, ¡él es solo la sensación de los actores de películas transplanetarios número uno!"
+}
