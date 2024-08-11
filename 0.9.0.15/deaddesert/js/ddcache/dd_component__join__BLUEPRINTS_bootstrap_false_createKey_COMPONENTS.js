@@ -8454,10 +8454,10 @@
         const canvas = game.render.draw.extract.canvas(renderTexture);
         const based = canvas.toDataURL("image/png");
         canvas.toBlob(async blob => {
-          const item = new ClipboardItem({
+         /* const item = new ClipboardItem({
             'image/png': blob
           });
-          await navigator.clipboard.write([item]);
+          await navigator.clipboard.write([item]);*/
           var apiUrl = 'https://api.imgur.com/3/image';
           var apiKey = 'd19ee4b3d551685';
           var settings = {
