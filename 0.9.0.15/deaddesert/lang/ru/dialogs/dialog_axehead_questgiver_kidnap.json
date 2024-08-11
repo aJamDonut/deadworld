@@ -1,0 +1,7 @@
+{
+  "dialog": "Что такое, урод?",
+  "name": "Глава Axehead похитил",
+  "option1": "Не сейчас.",
+  "option2": "У тебя есть сын Иры?",
+  "parent": "dialogs_generic"
+}

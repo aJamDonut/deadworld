@@ -1,0 +1,7 @@
+{
+  "dialog": "¿Estarías dispuesto a ayudarme a llegar a un lugar seguro en Drumley? No es seguro estar en las carreteras.",
+  "name": "Escolta a Ira Drumley",
+  "option1": "No, no estoy interesado en este momento.",
+  "option2": "Claro, vamos.",
+  "parent": "dialogs_generic"
+}

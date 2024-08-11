@@ -1,0 +1,9 @@
+{
+  "dialog": "¿Por qué me molestas?",
+  "name": "Landzo Civ",
+  "option1": "¿Qué es este lugar?",
+  "option2": "¿Cómo puedes vivir aquí? ¡Este lugar es un desastre!",
+  "parent": "dialogs_generic",
+  "response_overlords": "Dile eso a nuestros señores...",
+  "response_towninfo": "Sincorp le gusta llamarlo su joya del desierto muerto..."
+}

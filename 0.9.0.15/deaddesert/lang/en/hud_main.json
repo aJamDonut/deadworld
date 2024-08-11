@@ -1,0 +1,16 @@
+{
+  "action_build": "Build",
+  "action_craft": "Craft",
+  "action_defend": "Defend",
+  "action_flee": "Flee",
+  "action_ignore_attackers": "Ignore Attackers",
+  "action_medic": "Medic",
+  "action_sneak": "Sneak",
+  "button_build": "Build",
+  "button_craft": "Craft",
+  "button_inventory": "Inventory",
+  "button_research": "Research",
+  "button_stats": "Stats",
+  "button_world": "World",
+  "title_actions": "Actions"
+}

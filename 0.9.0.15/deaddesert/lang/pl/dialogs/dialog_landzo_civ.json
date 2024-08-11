@@ -1,0 +1,9 @@
+{
+  "dialog": "Dlaczego mnie niepokoisz?",
+  "name": "Landzo Civ",
+  "option1": "Co to za miejsce?",
+  "option2": "Jak możesz tu mieszkać? To miejsce to ruina!",
+  "parent": "dialogs_generic",
+  "response_overlords": "Powiedz to naszym władcom...",
+  "response_towninfo": "Sincorp lubi nazywać to swoim klejnotem martwej pustyni..."
+}

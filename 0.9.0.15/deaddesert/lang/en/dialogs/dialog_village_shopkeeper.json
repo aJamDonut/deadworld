@@ -1,0 +1,10 @@
+{
+  "dialog": "Best wares around pardner!",
+  "name": "Village Shopkeeper",
+  "option1": "Let's trade, bucko.",
+  "option2": "Why are there so many barrels around?",
+  "option3": "Why do you guys have a room full of chairs?",
+  "response_alcohol": "*Hick* That's our alcoholics anonymous... *Hick* You should join us sometime...",
+  "response_barrels": "Heh... You'd think they is fulla oil, it's all acid. We melt all duh dead bodies in 'em.",
+  "response_nothingtosell": "Sorry bubba, I aint got nun for ya right now."
+}

@@ -1,0 +1,12 @@
+{
+  "dialog": "Welcome to the Sicks Saloon, friend!",
+  "name": "Sicks Chief",
+  "option1": "Why all the destroyed buildings?",
+  "option2": "Have you got any work for me?",
+  "option3": "What does that colleague look like?",
+  "response_guyinfo": "They wear a green shirt and a farmer's hat.",
+  "response_jobinprogress": "Hey buddy! I have no work right now because you're supposed to be delivering that barrel.",
+  "response_joboffer": "If you could deliver this barrel of the good stuff up to my colleague in Drumley, They'd make it worth your time.",
+  "response_towninfo": "Those are the old brick buildings... They'd been destroyed by raiders. Sadly, many exploit our kindness.",
+  "response_whatguy": "What colleague?"
+}

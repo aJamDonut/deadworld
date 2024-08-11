@@ -1,0 +1,11 @@
+{
+  "dialog": "Salut! Comment vas-tu aujourd'hui?",
+  "name": "Villageois Malade",
+  "option1": "Quel est cet endroit?",
+  "option2": "Que peut-on faire ici?",
+  "option3": "Es-tu appelé malade parce que vous êtes tous fou?",
+  "parent": "dialogs_generic",
+  "response_mean": "Pourquoi tout le monde est-il toujours méchant avec nous...",
+  "response_saloon": "Visitez le saloon et enivrez-vous, bien sûr !",
+  "response_towninfo": "C'est notre village, Sicks. Nous accueillons tout le monde !"
+}

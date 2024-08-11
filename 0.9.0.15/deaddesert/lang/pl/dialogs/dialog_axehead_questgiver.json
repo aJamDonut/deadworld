@@ -1,0 +1,7 @@
+{
+  "dialog": "Przestań się gapić. Patrzysz na Szefa Fortu Axehead.",
+  "name": "Szef Axehead",
+  "option1": "Czy Fort nie potrzebuje armii?",
+  "option2": "Hej, mam pytanie.",
+  "parent": "dialogs_generic"
+}

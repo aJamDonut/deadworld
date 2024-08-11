@@ -1,0 +1,11 @@
+{
+  "dialog": "Ta présence m'agace.",
+  "name": "Villageois de la Hache",
+  "option1": "Quel est cet endroit ?",
+  "option2": "Combien de bois un castor peut-il jeter ?",
+  "option3": "Combien de clones faut-il pour tuer un villageois stupide ?",
+  "parent": "dialogs_generic",
+  "response_axehead": "C'est Fort Axehead, le meilleur des trois villages.",
+  "response_fight": "Tu vas tomber.",
+  "response_woodchuck": "Environ 600 lbs, espèce d'imbécile!"
+}

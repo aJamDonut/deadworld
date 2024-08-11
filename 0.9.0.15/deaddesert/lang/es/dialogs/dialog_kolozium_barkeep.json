@@ -1,0 +1,13 @@
+{
+  "dialog": "¡Bienvenido al único y legítimo salón en Kolozium, amigo!",
+  "name": "Bartender de Kolozium 1",
+  "option1": "¿Qué pasa con el enorme domo de peleas?",
+  "option2": "¿Tienes algún trabajo para mí?",
+  "option3": "[VERIFICAR] Tengo recompensas",
+  "parent": "dialogs_generic",
+  "response_endrivalry": "Finalmente, nuestra rivalidad ha llegado a su fin. Seré honesto, sin embargo, los amigos TAR Bandit de Likor no olvidarán esto; Ni nosotros tampoco.",
+  "response_info": "¿Por qué no vas y lo descubres, amigo? Nunca podemos decir que no a un nuevo gladiador.",
+  "response_jobinprogress": "No, solo la recompensa que te di.",
+  "response_joboffer": "Sí... la tengo. Si pudieras eliminar a mi rival por mí, te lo agradecería mucho.",
+  "response_nowork": "Hm, no hay recompensas aquí que pueda atender, lo siento."
+}

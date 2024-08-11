@@ -1,0 +1,11 @@
+{
+  "dialog": "Les meilleurs articles ici, partenaire !",
+  "name": "Marchand du village",
+  "option1": "Échangeons, mon pote.",
+  "option2": "Pourquoi y a-t-il tant de fûts ici ?",
+  "option3": "Pourquoi avez-vous une pièce pleine de chaises ?",
+  "parent": "dialogs_generic",
+  "response_alcohol": "*Hick* C'est notre alcooliques anonymes... *Hick* Tu devrais nous rejoindre un de ces jours...",
+  "response_barrels": "Heh... On pourrait penser qu'ils sont pleins d'huile, mais c'est tout de l'acide. On fait fondre tous les corps morts dedans.",
+  "response_nothingtosell": "Désolé bubba, je n'ai rien pour toi en ce moment."
+}

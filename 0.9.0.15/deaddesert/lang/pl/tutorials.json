@@ -1,0 +1,20 @@
+{
+  "tutstep_1": "Plądrowanie Ciał",
+  "tutstep_1_description": "Możesz plądrować martwe ciała, klikając prawym przyciskiem myszy i wybierając \"Ekspedycja\"",
+  "tutstep_2": "Zamknięte Drzwi",
+  "tutstep_2_description": "Niektóre drzwi są zamknięte na klucz. Po znalezieniu klucza możesz otworzyć drzwi, przechodząc przez nie.",
+  "tutstep_3": "Drzwi",
+  "tutstep_3_description": "Niektóre drzwi mogą być otwarte lub zamknięte, możesz spróbować przejść przez drzwi, klikając prawym przyciskiem myszy po drugiej stronie drzwi.",
+  "tutstep_4": "Statystyki NPC",
+  "tutstep_4_description": "Możesz zobaczyć statystyki innych NPC, klikając lewym przyciskiem myszy na NPC. Statystyki będą wyświetlane w prawym dolnym rogu ekranu.",
+  "tutstep_5": "Atakowanie",
+  "tutstep_5_description": "Możesz rozmawiać, atakować lub podążać za innymi NPC, klikając prawym przyciskiem myszy i wybierając opcję z rozwijanego menu.",
+  "tutstep_6": "Plądrowanie",
+  "tutstep_6_description": "Niektóre pojemniki w świecie mogą być plądrowane. Po prostu kliknij prawym przyciskiem myszy na pojemnik i wybierz \"Otwórz\"",
+  "tutstep_7": "Obracanie",
+  "tutstep_7_description": "Możesz rozejrzeć się po otoczeniu, klikając środkowym przyciskiem myszy i przytrzymując mysz, poruszając nią. Możesz wrócić do podążania za Pionkiem, klikając go dwukrotnie.",
+  "tutstep_8": "Kontrola Myszki",
+  "tutstep_8_description": "Cała gra może być kontrolowana za pomocą myszy. Kliknięcie lewym przyciskiem myszy daje informacje o rzeczach. Kliknięcie środkowym przyciskiem pozwala lepiej rozejrzeć się. Kliknięcie prawym przyciskiem myszy pozwala wybierać akcje na obiektach i poruszać Pionkami.",
+  "tutstep_9": "Ławka Badawcza",
+  "tutstep_9_description": "MUSISZ WRZUCIĆ MODUŁY BADAWCZE DO ŁAWKI BADAWCZEJ, ABY OD-LOCKOWAĆ BADANIA.\r\n\r\nZnajdź lub kup kilka modułów badawczych. Znajdź dowolną ławkę badawczą w świecie lub zbuduj swoją własną. Dodaj moduły badawcze do ekwipunku ławki, a następnie użyj ławki badawczej, aby odblokować badania."
+}

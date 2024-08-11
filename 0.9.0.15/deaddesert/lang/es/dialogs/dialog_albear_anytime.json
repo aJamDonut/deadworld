@@ -1,0 +1,8 @@
+{
+  "dialog": "Y antes de que vayas pensando que estoy atrapado en el suelo en algún lugar como alguna criatura con una cabeza bobbing, estás equivocado. Podría darte 100 intentos para adivinar dónde estoy y aún estarías equivocado.",
+  "name": "Albear Anytime",
+  "option1": "¿Eres una mutación de un clon existente que tiene un crecimiento de 3 cabezas en el lado de su cabeza y ese crecimiento eres tú?",
+  "option2": "No me importa mucho que invadas mi mente.",
+  "option3": "[VERIFICAR] Claro, lo pagaré",
+  "parent": "dialogs_generic"
+}

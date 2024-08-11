@@ -1,0 +1,13 @@
+{
+  "dialog": "Soy el bartender del Kolozium... ¡No Mallie!",
+  "name": "Bartender del Kolozium 2",
+  "option1": "¿Quién es Mallie?",
+  "option2": "¿Tienes algún trabajo para mí?",
+  "option3": "[VERIFICAR] Tengo recompensas",
+  "parent": "dialogs_generic",
+  "response_endrivalry": "¡Te tomó bastante tiempo, punk! Pero no te preocupes, los TAR Bandits no se olvidarán de esto; tampoco lo harán los gladiadores.",
+  "response_info": "Mi rival... Estúpido ex-gladiador...",
+  "response_jobinprogress": "No, solo la recompensa que te di.",
+  "response_joboffer": "Sí, punk. Si te deshaces de ese tonto llamado Mallie al norte, les transmitiré una buena palabra a los TAR Bandits.",
+  "response_nowork": "Hm, no hay recompensas aquí que pueda atender, lo siento."
+}

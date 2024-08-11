@@ -1,0 +1,15 @@
+{
+  "crazy_founder": "Fundador Loco",
+  "crazy_founder_desc": "[Dificultad: Fácil] Estás harto de la aburrida vida en Landzo. Tú y algunos de tus clones sirvientes se encuentran en las antiguas ruinas de un laboratorio de Sincorp. ¿Puedes comenzar a reconstruir esta estructura que una vez fue bulliciosa?",
+  "discarded_clone": "Clone Descartado",
+  "discarded_clone_desc": "[Dificultad: Media] Comienza como un clone descartado. Ni siquiera eras deseado por tus creadores debido a la falta de cualidades personales impresionantes, enfréntate al desafío de sobrevivir en un mundo donde todos te verán como un objetivo fácil.",
+  "escaped_clone": "Clone Fugado",
+  "escaped_clone_desc": "[Dificultad: Media] Comienza como un clone fugado que se encuentra ya entre las dunas y criaturas del reinicio.",
+  "human_founder_offspring": "Descendencia de Fundador Humano",
+  "human_founder_offspring_desc": "[Fácil] Comienza como la descendencia de un fundador humano y todos los beneficios que conlleva ser humano. Comienza con tu propio clone que sigue todas tus órdenes así como una gran herencia.",
+  "life_electric": "Vida Eléctrica",
+  "life_electric_desc": "[Fácil] Comienza como un Robot MK 1 que de repente ganó conciencia mientras realizaba las tareas diarias en la Ciudad de Landzo.",
+  "one_of_the_lokals": "Uno de los Lokals",
+  "one_of_the_lokals_desc": "[Difícil] Comienza como un Lokal, un habitante del desierto, equipado con un conocimiento único para sobrevivir pero detestado por todos los humanoides.",
+  "spawnPoint_default": "El Predeterminado"
+}

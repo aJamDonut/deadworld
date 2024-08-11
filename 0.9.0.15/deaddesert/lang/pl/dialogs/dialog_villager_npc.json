@@ -1,0 +1,11 @@
+{
+  "dialog": "Czego chcesz?",
+  "name": "Mieszkaniec",
+  "option1": "Co to za miejsce?",
+  "option2": "Ile drewna może wyrzucić dzik?",
+  "option3": "Kto zbudował to miejsce, troglodyta?",
+  "parent": "dialogs_generic",
+  "response_fight": "Spadasz na dół.",
+  "response_village": "To jest nasza wioska; Jest urocza, prawda?",
+  "response_woodchuck": "Około 600 funtów, głuptasie!"
+}

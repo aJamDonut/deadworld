@@ -1,0 +1,12 @@
+{
+  "dialog": "Psssst. Je me cache ici. J'en ai tellement marre de travailler dur pour ces idiots sans rien gagner pour moi-même. Regarde, peut-être que tu peux faire tes preuves ? Si tu peux me payer 100, je te rejoindrai.",
+  "name": "Recruter Tutty",
+  "option1": "Je ne veux pas payer ça",
+  "option2": "Comment puis-je gagner de l'argent ?",
+  "option3": "[VÉRIFIER] Oui bien sûr, je vais le payer",
+  "parent": "dialogs_generic",
+  "response_cantafford": "Vous ne pouvez pas vous le permettre en ce moment",
+  "response_changemind": "D'accord, faites-moi savoir si vous changez d'avis",
+  "response_letsgo": "Super, allons-y alors !",
+  "response_moneyinfo": "Oh, il existe de nombreuses façons de gagner de l'argent, vous pouvez vendre des ressources, compléter des primes ou vendre de vieux butins pour en nommer quelques-unes..."
+}

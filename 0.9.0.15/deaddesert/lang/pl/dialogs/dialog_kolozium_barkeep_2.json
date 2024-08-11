@@ -1,0 +1,13 @@
+{
+  "dialog": "Jestem barmanem w Koloziumie... Nie Mallie!",
+  "name": "Barman Kolozium 2",
+  "option1": "Kim jest Mallie?",
+  "option2": "Masz dla mnie jakąś pracę?",
+  "option3": "[SPRAWDŹ] Mam nagrody",
+  "parent": "dialogs_generic",
+  "response_endrivalry": "Zajęło ci to wystarczająco dużo czasu, punk! Ale nie martw się, TAR Bandits o tym nie zapomną; Gladiatorzy również.",
+  "response_info": "Mój rywal... Głupi były gladiator...",
+  "response_jobinprogress": "Nie, tylko nagroda, którą ci dałem.",
+  "response_joboffer": "Tak, punk. Jeśli wyeliminujesz tego głupka o imieniu Mallie na północy, przekażę dobre słowo TAR Bandits.",
+  "response_nowork": "Hm, nie ma tutaj żadnych nagród, którymi mógłbym się zająć, przepraszam."
+}

@@ -1,0 +1,7 @@
+{
+  "dialog": "Deja de mirar. Estás mirando al Jefe de Fort Axehead.",
+  "name": "Jefe de Axehead",
+  "option1": "¿No necesita un Fuerte un ejército?",
+  "option2": "Oye, tengo una pregunta.",
+  "parent": "dialogs_generic"
+}

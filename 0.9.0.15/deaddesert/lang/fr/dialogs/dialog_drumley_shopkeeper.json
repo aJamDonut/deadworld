@@ -1,0 +1,8 @@
+{
+  "dialog": "Les meilleurs produits par ici, partenaire !",
+  "name": "Commerçant Drumley",
+  "option1": "Échangeons, camarade.",
+  "option2": "Pourquoi y a-t-il autant de tonneaux ici ?",
+  "option3": "Pourquoi avez-vous une pièce pleine de chaises ?",
+  "parent": "dialogs_generic"
+}

@@ -1,0 +1,10 @@
+{
+  "dialog": "Tenemos bastantes recompensas disponibles en este momento. Algunos realmente perdidos que necesitamos atender. Si coleccionas alguna recompensa, trálalas aquí.",
+  "name": "Entrega de Recompensas",
+  "option1": "¿Qué es una recompensa? ¿Cómo encuentro una?",
+  "option2": "[VERIFICAR] Tengo recompensas",
+  "parent": "dialogs_generic",
+  "response_bountyinfo": "Puedes encontrar avisos de recompensas por el yermo. Simplemente mata al objetivo, recoge su cabeza y tráela de vuelta a mí",
+  "response_nicework": "Buen trabajo, aquí está tu pago",
+  "response_nobounties": "Hm, no hay recompensas aquí que pueda atender, lo siento."
+}

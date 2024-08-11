@@ -1,0 +1,10 @@
+{
+  "dialog": "Hi! How are you today?",
+  "name": "Sicks Villager",
+  "option1": "What is this place?",
+  "option2": "What is there to do here?",
+  "option3": "Are you called sicks because you're all sick in the head?",
+  "response_mean": "Why is everyone always mean to us...",
+  "response_saloon": "Visit the saloon and get drunk, of course!",
+  "response_towninfo": "This is our village, Sicks. We welcome everyone!"
+}

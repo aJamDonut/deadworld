@@ -1,0 +1,11 @@
+{
+  "dialog": "Twoja obecność mnie denerwuje.",
+  "name": "Mieszkaniec Axehead",
+  "option1": "Co to za miejsce?",
+  "option2": "Ile drewna mógłby rzucić bobrzyk?",
+  "option3": "Ile klonów potrzeba, aby zabić głupiego wieśniaka?",
+  "parent": "dialogs_generic",
+  "response_axehead": "To jest Fort Axehead, najlepsza z trzech wsi.",
+  "response_fight": "Spadasz na dół.",
+  "response_woodchuck": "Około 600 funtów, głupku!"
+}

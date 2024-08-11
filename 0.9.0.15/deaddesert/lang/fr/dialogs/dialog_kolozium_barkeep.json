@@ -1,0 +1,13 @@
+{
+  "dialog": "Bienvenue dans le seul et unique salon légitime de Kolozium, mon ami !",
+  "name": "Barman de Kolozium 1",
+  "option1": "C'est quoi ce dôme de combat énorme ?",
+  "option2": "As-tu du travail pour moi ?",
+  "option3": "[VÉRIFIER] J'ai des primes",
+  "parent": "dialogs_generic",
+  "response_endrivalry": "Enfin, notre rivalité est terminée. Je vais être honnête, les amis TAR Bandit de Likor ne l'oublieront pas ; nous non plus.",
+  "response_info": "Pourquoi ne vas-tu pas le découvrir, mon pote ? Nous ne pouvons jamais dire non à un nouveau gladiateur.",
+  "response_jobinprogress": "Non, juste la récompense que je t'ai donnée.",
+  "response_joboffer": "Oui... j'en ai besoin. Si tu pouvais éliminer mon rival pour moi, je t'en serais très reconnaissant.",
+  "response_nowork": "Hm, il n'y a pas de primes ici que je puisse prendre en charge, désolé."
+}

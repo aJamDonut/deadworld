@@ -1,0 +1,9 @@
+{
+  "dialog": "Zrób to szybko.",
+  "name": "Sprzedawca Ostrza",
+  "option1": "Czy możemy wymienić się?",
+  "option2": "Co z tymi ogromnymi murami?",
+  "parent": "dialogs_generic",
+  "response_nothingtosell": "Niestety, nie mam nic dla ciebie",
+  "response_walls": "Tak, aby chronić się przed naszymi zgniłymi sąsiadami, pewnego dnia... zrozumiesz."
+}

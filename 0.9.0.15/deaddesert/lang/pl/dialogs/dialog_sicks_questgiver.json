@@ -1,0 +1,13 @@
+{
+  "dialog": "Witaj w Sicks Saloon, przyjacielu!",
+  "name": "Sicks Chief",
+  "option1": "Dlaczego wszystkie zniszczone budynki?",
+  "option2": "Masz dla mnie jakąś pracę?",
+  "option3": "Jak wygląda ten kolega?",
+  "parent": "dialogs_generic",
+  "response_guyinfo": "Noszą zieloną koszulę i kapelusz rolnika.",
+  "response_jobinprogress": "Cześć, stary! Nie mam teraz pracy, ponieważ powinieneś dostarczyć tę beczkę.",
+  "response_joboffer": "Gdybyś mógł dostarczyć tę beczkę z dobrym towarem do mojego kolegi w Drumley, wynagrodziliby ci twój czas.",
+  "response_towninfo": "To są stare ceglane budynki... Zostały zniszczone przez najeźdźców. Niestety, wielu wykorzystuje naszą życzliwość.",
+  "response_whatguy": "Jaki kolega?"
+}

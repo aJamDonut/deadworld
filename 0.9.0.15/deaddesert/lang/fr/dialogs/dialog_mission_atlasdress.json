@@ -1,0 +1,10 @@
+{
+  "dialog": "Je veux être tellement jolie, mais je ne suis qu'un clone moche :(. J'ai vu une fois une dame dans une robe. Elle était si belle ! J'aimerais être humaine et pouvoir avoir des choses jolies.",
+  "name": "Atlas Veut une Robe",
+  "option1": "Tu n'es qu'un clone. Tu n'as pas besoin de robe.",
+  "option2": "[VÉRIFIER] Ai-je une robe ?",
+  "parent": "dialogs_generic",
+  "response_nodress": "Tu n'as pas de robe :( Peut-être que tu pourrais en trouver une dans une boutique d'armures.",
+  "response_somean": "Peut-être que tu as raison... Pas besoin d'être si méchant à ce sujet. :(",
+  "response_thanks": "OMG WOW! Merci! Écoute, je t'aiderai avec tout ce que tu veux à partir de maintenant! Demande simplement!"
+}

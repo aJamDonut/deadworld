@@ -1,0 +1,7 @@
+{
+  "dialog": "01010:: Rozpoczynanie rutyny interakcji z ludźmi... \r\n10010:: Skanowanie. Jesteś niezarejestrowanym klonem\r\n01000:: Zidentyfikuj",
+  "name": "DocoBot Start",
+  "option1": "...co?",
+  "parent": "dialogs_generic",
+  "terminate": "01100:: Tożsamość nie powiodła się. Zakończ!"
+}

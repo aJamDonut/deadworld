@@ -1,0 +1,10 @@
+{
+  "dialog": "Quiero ser tan bonita, pero solo soy un clon feo :(. Una vez vi a una dama con un vestido. ¡Era tan hermosa! Ojalá fuera humana y pudiera tener cosas bonitas.",
+  "name": "Atlas Quiere un Vestido",
+  "option1": "Eres solo un clon. No necesitas un vestido.",
+  "option2": "[VERIFICAR] ¿Tengo un vestido?",
+  "parent": "dialogs_generic",
+  "response_nodress": "No tienes un vestido :( Quizás podrías encontrar uno en una tienda de armaduras.",
+  "response_somean": "Quizás tienes razón... No hay necesidad de ser tan cruel al respecto. :(",
+  "response_thanks": "¡OMG WOW! ¡Gracias! Oye, escucha, te ayudaré con lo que quieras de ahora en adelante. ¡Solo pide!"
+}

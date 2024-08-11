@@ -1,0 +1,6 @@
+{
+  "dialog": "Bonjour ma chérie, comment vas-tu aujourd'hui ?",
+  "name": "Escort Ira début",
+  "option1": "Je fais juste un point.",
+  "parent": "dialogs_generic"
+}

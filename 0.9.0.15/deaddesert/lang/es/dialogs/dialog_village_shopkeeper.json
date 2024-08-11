@@ -1,0 +1,11 @@
+{
+  "dialog": "¡Las mejores mercancías alrededor, compañero!",
+  "name": "Tienda del Pueblo",
+  "option1": "Hagamos un trueque, amigo.",
+  "option2": "¿Por qué hay tantos barriles alrededor?",
+  "option3": "¿Por qué tienen una habitación llena de sillas?",
+  "parent": "dialogs_generic",
+  "response_alcohol": "*Hick* Esa es nuestra alcohólicos anónimos... *Hick* Deberías unirte a nosotros alguna vez...",
+  "response_barrels": "Heh... Pensarías que están llenos de aceite, todo es ácido. Derretimos todos los cuerpos muertos en ellos.",
+  "response_nothingtosell": "Lo siento bubba, no tengo nada para ti en este momento."
+}

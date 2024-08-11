@@ -1,0 +1,15 @@
+{
+  "crazy_founder": "Crazy Founder",
+  "crazy_founder_desc": "[Difficulty: Easy] You're fed up of the boring life back at Landzo. You and a few of your servient clones find themselves in the old ruins of a Sincorp Lab. Can you get started rebuilding this once bustling structure?",
+  "discarded_clone": "Discarded Clone",
+  "discarded_clone_desc": "[Difficulty: Medium] Start out as a discarded clone. You weren't even wanted by your creators due to a lack of any impressive personal qualities, face the challenge of surviving in a world where everything will see you as an easy target",
+  "escaped_clone": "Escaped Clone",
+  "escaped_clone_desc": "[Difficulty: Medium] Start out as an escaped clone finding themselves already amongst the dunes and creatures of the reset.",
+  "human_founder_offspring": "Human Founder Offspring",
+  "human_founder_offspring_desc": "[Easy] Start out as a human founders offspring and all the benefits that come with being human. Start with your very own clone that follows all your commands as well as a large inheritance.",
+  "life_electric": "Life Electric",
+  "life_electric_desc": "[Easy] Start out as a MK 1 Robot which suddenly gained sentience while carrying out the usual day to days in Landzo City",
+  "one_of_the_lokals": "One of the Lokals",
+  "one_of_the_lokals_desc": "[Hard] Start out as a Lokal, an inhabitant of the desert, equipped with unique knowledge to survive but detested by all human-likes.",
+  "spawnPoint_default": "The Default"
+}

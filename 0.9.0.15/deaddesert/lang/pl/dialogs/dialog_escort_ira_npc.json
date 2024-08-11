@@ -1,0 +1,7 @@
+{
+  "dialog": "Nie jesteś z Sincorp, prawda? Potrzebuję twojej pomocy, mój syn zaginął... Nie wiem, gdzie może być... Może to ten Fort Axehead na wschód stąd, to naprawdę okropny lud.",
+  "name": "Oprowadź Irę",
+  "option1": "Nie, nie jestem teraz zainteresowany.",
+  "option2": "Sprawdzę to.",
+  "parent": "dialogs_generic"
+}

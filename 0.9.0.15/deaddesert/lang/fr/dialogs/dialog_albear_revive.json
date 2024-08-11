@@ -1,0 +1,8 @@
+{
+  "dialog": "Oh là là, on dirait que tu es dans de beaux draps. Ce serait vraiment dommage de voir un bon clone comme toi mourir.\r\n\r\nDis-moi, que dirais-tu d'une petite mutation en échange de la résurrection ?",
+  "name": "Albear Revive",
+  "option1": "D'accord, fais-le.",
+  "option2": "Fais-le et emmène-moi d'ici.",
+  "option3": "Non, laisse-le mort.",
+  "parent": "dialogs_generic"
+}

@@ -1,0 +1,8 @@
+{
+  "dialog": "¡Has vuelto de Fort Axehead! ¿Encontraste a mi hijo?",
+  "name": "Escoltar Ira Secuestro",
+  "option1": "No, tenías razón; son personas horribles... Incluso me ofrecieron dinero para secuestrarte.",
+  "option2": "¡Tu hijo está allí! Vamos, rápido, puedo llevarte allí de manera segura y estarán reunidos.",
+  "option3": "No ahora.",
+  "parent": "dialogs_generic"
+}

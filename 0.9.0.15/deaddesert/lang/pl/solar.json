@@ -1,0 +1,14 @@
+{
+  "body_interference": "{body} Zakłócenie: {amount} {percent}%",
+  "current_season": "Sezon: {season}",
+  "main_planet": "Martwa Pustynia",
+  "main_planet_moon": "Goe",
+  "orbit_period_hours": "Okres Orbity: {period}h",
+  "red_star": "Arret",
+  "season_heatwave": "Fala upałów",
+  "season_spring": "Wiosna",
+  "season_summer": "Lato",
+  "season_void": "Pustka",
+  "season_winter": "Zima",
+  "yellow_star": "Poz"
+}

@@ -1,0 +1,8 @@
+{
+  "dialog": "Best greetings, Many Wares for those who dares!",
+  "name": "Kolozium Shopkeeper",
+  "option1": "Got any wares for me?",
+  "option2": "Who are you?",
+  "response_info": "I'm just an old man performing his ancient duty, fool...",
+  "response_nothingtosell": "I aint got nun for ya right now."
+}

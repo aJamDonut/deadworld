@@ -1,0 +1,7 @@
+{
+  "dialog": "01010:: Iniciando rutina de interacción humana... \r\n10010:: Escaneando. Eres un clon no registrado\r\n01000:: Identificar",
+  "name": "DocoBot Inicio",
+  "option1": "...¿qué?",
+  "parent": "dialogs_generic",
+  "terminate": "01100:: La identidad ha fallado. ¡Terminar!"
+}

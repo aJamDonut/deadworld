@@ -1,0 +1,10 @@
+{
+  "dialog": "Mamy teraz dość sporo nagród do wzięcia. Kilku prawdziwych najpodlejszych, którymi musimy się zająć. Jeśli zbierzesz jakieś nagrody, przynieś je tutaj.",
+  "name": "Złożenie nagrody",
+  "option1": "Co to jest nagroda? Jak mogę ją znaleźć?",
+  "option2": "[SPRAWDŹ] Mam nagrody",
+  "parent": "dialogs_generic",
+  "response_bountyinfo": "Możesz znaleźć ogłoszenia o nagrodach w wastelandzie. Po prostu zabij cel, zbierz jego głowę i przywieź ją do mnie",
+  "response_nicework": "Dobra robota, oto twoje wynagrodzenie",
+  "response_nobounties": "Hm, nie ma tutaj żadnych nagród, którymi mógłbym się zająć, przepraszam."
+}

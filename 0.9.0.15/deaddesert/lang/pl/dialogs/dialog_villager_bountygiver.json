@@ -1,0 +1,10 @@
+{
+  "dialog": "Jestem twarzą Drumley, stary, nie chcesz marnować mojego czasu... W przeciwnym razie.",
+  "name": "Szef Drumley",
+  "option1": "Dlaczego to miejsce nazywa się Drumley?",
+  "option2": "Masz dla mnie jakąś pracę?",
+  "parent": "dialogs_generic",
+  "response_bounty": "Posłuchaj, ten głupiec terroryzuje nasze miasteczko od lat... Jeśli byś go zlikwidował, bylibyśmy ci bardzo wdzięczni, partnerze.",
+  "response_drumley": "Czy nie widzisz wszystkich tych beczek wokół? To bębny, prawda?",
+  "response_gogethim": "Co ty tutaj robisz, frajerze? Idź go złapać!"
+}

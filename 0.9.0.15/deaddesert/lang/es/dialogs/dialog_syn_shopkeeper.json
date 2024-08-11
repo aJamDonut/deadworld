@@ -1,0 +1,7 @@
+{
+  "dialog": "Colecciono. Vendo... ¿Qué quieres?",
+  "name": "Tendero",
+  "option1": "Vamos a comerciar",
+  "parent": "dialogs_generic",
+  "nothing_to_sell": "Parece que no tengo nada que vender en este momento."
+}

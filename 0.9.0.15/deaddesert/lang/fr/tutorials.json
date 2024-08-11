@@ -1,0 +1,20 @@
+{
+  "tutstep_1": "Piller des corps",
+  "tutstep_1_description": "Vous pouvez piller les corps morts en cliquant avec le bouton droit dessus et en sélectionnant \"Inventaire\".",
+  "tutstep_2": "Portes verrouillées",
+  "tutstep_2_description": "Certaines portes sont verrouillées par une clé. Une fois que vous avez trouvé la clé, vous pouvez déverrouiller la porte en marchant à travers.",
+  "tutstep_3": "Portes",
+  "tutstep_3_description": "Certaines portes peuvent être déverrouillées ou verrouillées, vous pouvez essayer de passer à travers une porte en cliquant avec le bouton droit de la souris de l'autre côté de la porte.",
+  "tutstep_4": "Stats des PNJ",
+  "tutstep_4_description": "Vous pouvez consulter les statistiques d'autres PNJ en cliquant avec le bouton gauche sur le PNJ. Les statistiques s'afficheront en bas à droite de l'écran.",
+  "tutstep_5": "Attaquer",
+  "tutstep_5_description": "Vous pouvez parler, attaquer ou suivre d'autres PNJ en cliquant avec le bouton droit sur eux et en choisissant une option dans le menu déroulant.",
+  "tutstep_6": "Pillage",
+  "tutstep_6_description": "Certains conteneurs dans le monde peuvent être pillés. Il suffit de cliquer avec le bouton droit sur le conteneur et de sélectionner \"Ouvrir\".",
+  "tutstep_7": "Panoramique",
+  "tutstep_7_description": "Vous pouvez regarder autour de vous en cliquant avec le bouton du milieu et en maintenant votre souris tout en la déplaçant. Vous pouvez retourner à suivre un Pion en double-cliquant dessus.",
+  "tutstep_8": "Contrôles de la souris",
+  "tutstep_8_description": "Tout le jeu peut être contrôlé avec la souris. Un clic gauche vous donne des informations sur les objets. Un clic du milieu vous permet de regarder autour de vous. Un clic droit vous permet de choisir des actions sur les objets et de déplacer des Pions.",
+  "tutstep_9": "Banc de recherche",
+  "tutstep_9_description": "VOUS DEVEZ METTRE DES NŒUDS DE RECHERCHE DANS UN BANC DE RECHERCHE POUR DÉBLOQUER LA RECHERCHE.\r\n\r\nTrouvez ou achetez des nœuds de recherche. Trouvez un banc de recherche dans le monde ou construisez le vôtre. Ajoutez les nœuds de recherche à l'inventaire du banc, puis utilisez le banc de recherche pour débloquer la recherche."
+}

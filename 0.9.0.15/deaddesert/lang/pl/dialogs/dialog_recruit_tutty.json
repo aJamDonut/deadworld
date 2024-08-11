@@ -1,0 +1,12 @@
+{
+  "dialog": "Psssst. Ukrywam się tutaj. Mam dość ciężkiej pracy dla tych kretynów, nic z tego nie mając dla siebie. Spójrz, może możesz się wykazać? Jeśli możesz mi zapłacić 100, dołączę do ciebie.",
+  "name": "Rekruta Tutty",
+  "option1": "Nie chcę tego płacić",
+  "option2": "Jak mogę zarobić trochę pieniędzy?",
+  "option3": "[CHECK] Tak, oczywiście, zapłacę to",
+  "parent": "dialogs_generic",
+  "response_cantafford": "Nie możesz sobie na to teraz pozwolić",
+  "response_changemind": "Dobrze, daj mi znać, jeśli zmienisz zdanie",
+  "response_letsgo": "Świetnie, to chodźmy!",
+  "response_moneyinfo": "Och, jest wiele sposobów na zarobienie gotówki, możesz sprzedawać zasoby, wykonywać zlecenia lub sprzedawać starzy łup, żeby wymienić tylko kilka sposobów..."
+}

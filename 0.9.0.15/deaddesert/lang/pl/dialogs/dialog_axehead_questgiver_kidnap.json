@@ -1,0 +1,7 @@
+{
+  "dialog": "Co jest, punk?",
+  "name": "Axehead Chief kidnap",
+  "option1": "Nie teraz.",
+  "option2": "Masz syna Iry?",
+  "parent": "dialogs_generic"
+}

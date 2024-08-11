@@ -1,0 +1,13 @@
+{
+  "dialog": "Psst! Chodź tutaj, kolego.",
+  "name": "Misja przemytnicza Redtown",
+  "option1": "Co to za miejsce?",
+  "option2": "Masz dla mnie jakieś zadanie?",
+  "option3": "Jak wygląda 'ten facet'?",
+  "parent": "dialogs_generic",
+  "response_drumleydesc": "Są tam ci kolesie na północy, nazywają się 'Drumley'. W zasadzie mają jakieś dziwne uwielbienie do beczek. Szczególnie ten gość! Beczki z alkoholem, ciałami, kwasem, puste, cokolwiek, czego chcesz, on tego pragnie. Jeśli byś mu jedną dostarczył, zapłaciłby ci sowicie.",
+  "response_godeliver": "Już masz beczkę, idź ją dostarczyć.",
+  "response_guydesc": "Noszą zieloną koszulę i kapelusz rolnika.",
+  "response_sinbarrels": "To tutaj piekielne Sincorp trzyma wszystkie swoje diabelskie beczki, przyjacielu!",
+  "response_whatguy": "Jaki gość?"
+}

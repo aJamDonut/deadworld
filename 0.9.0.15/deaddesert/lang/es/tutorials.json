@@ -1,0 +1,20 @@
+{
+  "tutstep_1": "Saquear Cuerpos",
+  "tutstep_1_description": "Puedes saquear cuerpos muertos haciendo clic derecho en ellos y seleccionando \"Inventario\"",
+  "tutstep_2": "Puertas Cerradas",
+  "tutstep_2_description": "Algunas puertas están cerradas con una llave. Después de encontrar la llave, puedes abrir la puerta caminando a través de ella.",
+  "tutstep_3": "Puertas",
+  "tutstep_3_description": "Algunas puertas pueden estar desbloqueadas o bloqueadas, puedes intentar pasar a través de una puerta haciendo clic derecho en el otro lado de la puerta.",
+  "tutstep_4": "Estadísticas de NPC",
+  "tutstep_4_description": "Puedes ver las estadísticas de otros NPC haciendo clic izquierdo en el NPC. Las estadísticas se mostrarán en la esquina inferior derecha de la pantalla.",
+  "tutstep_5": "Atacar",
+  "tutstep_5_description": "Puedes hablar, atacar o seguir a otros NPC haciendo clic derecho en ellos y eligiendo una opción del menú desplegable.",
+  "tutstep_6": "Saquear",
+  "tutstep_6_description": "Algunos contenedores dentro del mundo pueden ser saqueados. Simplemente haz clic derecho en el contenedor y selecciona \"Abrir\"",
+  "tutstep_7": "Exploración",
+  "tutstep_7_description": "Puedes mirar alrededor del entorno haciendo clic central y manteniendo el mouse mientras lo mueves. Puedes volver a seguir a un Peón haciendo doble clic en él.",
+  "tutstep_8": "Controles del Mouse",
+  "tutstep_8_description": "Todo el juego se puede controlar desde el mouse. Hacer clic izquierdo te da información sobre las cosas. Hacer clic central te permite mirar más alrededor. Hacer clic derecho te permite elegir acciones sobre objetos y mover Peones.",
+  "tutstep_9": "Banco de Investigación",
+  "tutstep_9_description": "DEBES PONER NODOS DE INVESTIGACIÓN EN UN BANCO DE INVESTIGACIÓN PARA DESBLOQUEAR LA INVESTIGACIÓN.\r\n\r\nEncuentra o compra algunos nodos de investigación. Encuentra cualquier banco de investigación en el mundo o construye el tuyo propio. Agrega los nodos de investigación al inventario del banco, luego utiliza el banco de investigación para desbloquear la investigación."
+}

@@ -1,0 +1,8 @@
+{
+  "dialog": "¡Las mejores mercancías de la zona, amigo!",
+  "name": "Tendero Drumley",
+  "option1": "Vamos a comerciar, amigo.",
+  "option2": "¿Por qué hay tantos barriles alrededor?",
+  "option3": "¿Por qué tienen una habitación llena de sillas?",
+  "parent": "dialogs_generic"
+}

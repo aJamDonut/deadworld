@@ -1,0 +1,8 @@
+{
+  "dialog": "Tu es de retour de Fort Axehead ! As-tu trouvé mon fils ?",
+  "name": "Escorte Ira Kidnap",
+  "option1": "Non, tu avais raison ; ce sont des gens horribles... Ils m'ont même offert de l'argent pour te kidnapper.",
+  "option2": "Ton fils est là ! Allez, vite, je peux t'y emmener en toute sécurité et vous serez réunis !",
+  "option3": "Pas maintenant.",
+  "parent": "dialogs_generic"
+}

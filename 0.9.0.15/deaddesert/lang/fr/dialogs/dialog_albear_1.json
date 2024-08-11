@@ -1,0 +1,8 @@
+{
+  "dialog": "Et avant que tu ne penses que je suis coincé quelque part dans le sol comme une petite créature qui hoche la tête, tu as tort. Je pourrais te donner 100 essais pour deviner où je suis et tu serais toujours dans l'erreur.",
+  "name": "Albear",
+  "option1": "Es-tu une mutation d'un clone existant qui a une croissance de 3 têtes sur le côté de sa tête et cette croissance, c'est toi ?",
+  "option2": "Je me fiche un peu que tu envahisses mon esprit.",
+  "option3": "[VÉRIFIEZ] Ouais, bien sûr, je vais le payer",
+  "parent": "dialogs_generic"
+}

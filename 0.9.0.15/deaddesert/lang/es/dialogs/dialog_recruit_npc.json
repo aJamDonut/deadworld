@@ -1,0 +1,9 @@
+{
+  "dialog": "Estoy cansado de este lugar. Las tareas repetitivas, trabajar para un amo y no obtener nada por todo ese duro trabajo. Mira, si estás interesado en que alguien se una a ti, solo házmelo saber. Me uniré a ti por solo m1,000.",
+  "name": "Reclutar NPC",
+  "option1": "No, no estoy interesado en este momento.",
+  "option2": "[CHECK] Sí, claro, pagaré los m1000",
+  "response_cantafford": "No puedes permitirte esto en este momento",
+  "response_letsgo": "¡Genial, vamos entonces!",
+  "response_yourloss": "Está bien, es tu pérdida, amigo"
+}

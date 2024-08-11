@@ -1,0 +1,16 @@
+{
+  "action_build": "Строить",
+  "action_craft": "Создавать",
+  "action_defend": "Защищаться",
+  "action_flee": "Убежать",
+  "action_ignore_attackers": "Игнорировать нападающих",
+  "action_medic": "Медик",
+  "action_sneak": "Красться",
+  "button_build": "Строить",
+  "button_craft": "Создавать",
+  "button_inventory": "Инвентаризация",
+  "button_research": "Исследование",
+  "button_stats": "Статистика",
+  "button_world": "Мир",
+  "title_actions": "Действия"
+}

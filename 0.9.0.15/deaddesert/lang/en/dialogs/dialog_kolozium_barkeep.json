@@ -1,0 +1,12 @@
+{
+  "dialog": "Welcome to the one and only legitimate saloon in Kolozium, friend!",
+  "name": "Kolozium Barkeep 1",
+  "option1": "Whats with the huge fight dome?",
+  "option2": "Have you got any work for me?",
+  "option3": "[CHECK] I have bounties",
+  "response_endrivalry": "Finally, our rivalry has come to an end. I'll be honest though, Likor's TAR Bandit pals will not forget this; Neither will we.",
+  "response_info": "Why don't you go and find out bucko? We can never say no to a new gladiator.",
+  "response_jobinprogress": "Nope, just the bounty that I gave 'ya.",
+  "response_joboffer": "Yes... I do. If you could whack my rival for me, I'd highly appreciate it.",
+  "response_nowork": "Hm, there are no bounties here that I can take care of, sorry."
+}

@@ -1,0 +1,9 @@
+{
+  "dialog": "I'm sick of this place. The repetitive tasks, working for a master and getting nothing for all that hard work. Look, if you're interested in someone joining you just let me know. I'll join you for just m1,000.",
+  "name": "Recruit NPC",
+  "option1": "No i'm not interested right now.",
+  "option2": "[CHECK] Yeah sure, i'll pay the m1000",
+  "response_cantafford": "You can't afford this right now",
+  "response_letsgo": "Great, let's go then!",
+  "response_yourloss": "Okay your loss buddy"
+}

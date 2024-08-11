@@ -1,0 +1,13 @@
+{
+  "dialog": "Psst! Ven aquí, amigo.",
+  "name": "Misión de contrabando de Redtown",
+  "option1": "¿Qué es este lugar?",
+  "option2": "¿Tienes trabajo para mí?",
+  "option3": "¿Cómo es 'este tipo'?",
+  "parent": "dialogs_generic",
+  "response_drumleydesc": "Hay unos chicos al norte, se llaman 'Drumley'. Básicamente, tienen un amor raro por los barriles. ¡Especialmente este tipo! Barriles de licor, cuerpos, ácido, vacíos, lo que sea, lo quiere. Si le entregas uno, te pagará generosamente.",
+  "response_godeliver": "Ya tienes un barril, ve a entregarlo.",
+  "response_guydesc": "Llevan una camisa verde y un sombrero de granjero.",
+  "response_sinbarrels": "¡Este es el lugar donde Sincorp guarda todos sus malditos barriles, amigo!",
+  "response_whatguy": "¿Qué tipo?"
+}

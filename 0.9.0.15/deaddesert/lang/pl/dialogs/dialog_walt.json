@@ -1,0 +1,8 @@
+{
+  "dialog": "::: Inicjowanie rutyny powitania...\r\n\r\nWitaj <<species missing>>, jestem Walt 3000. Jednym z 3 AI wspierających moich twórców.\r\n\r\nJak mogę Ci dzisiaj pomóc?",
+  "name": "Walt",
+  "option1": "Co możesz mi powiedzieć o swoim celu i swoich twórcach?",
+  "option2": "Jak mogę zarobić trochę kasy?",
+  "option3": "[CHECK] Tak, oczywiście, zapłacę za to",
+  "parent": "dialogs_generic"
+}

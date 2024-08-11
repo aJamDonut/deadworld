@@ -1,0 +1,8 @@
+{
+  "dialog": "Ojej, wygląda na to, że masz kłopoty. To byłoby naprawdę szkoda zobaczyć dobrego klona takiego jak ty umierającego.\r\n\r\nPowiem ci co, a co powiesz na małą mutację w zamian za ożywienie?",
+  "name": "Albear Revive",
+  "option1": "Dobra, zrób to.",
+  "option2": "Zrób to i zabierz mnie stąd.",
+  "option3": "Nie, niech umrze.",
+  "parent": "dialogs_generic"
+}

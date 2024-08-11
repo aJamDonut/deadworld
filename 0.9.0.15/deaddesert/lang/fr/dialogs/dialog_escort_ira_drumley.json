@@ -1,0 +1,7 @@
+{
+  "dialog": "Seriez-vous disposé à m'aider à rejoindre un endroit sûr à Drumley ? Ce n'est pas sûr sur les routes.",
+  "name": "Escorte Ira drumley",
+  "option1": "Non, je ne suis pas intéressé en ce moment.",
+  "option2": "Bien sûr, allons-y.",
+  "parent": "dialogs_generic"
+}

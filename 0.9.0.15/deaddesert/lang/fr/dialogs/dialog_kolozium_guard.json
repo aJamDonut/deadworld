@@ -1,0 +1,7 @@
+{
+  "dialog": "Sur quel front maladif ai-je servi pour être associé à toi ?",
+  "name": "Garde Kolozium",
+  "option1": "Qui es-tu ?",
+  "parent": "dialogs_generic",
+  "response_guard": "Je n'est rien de moins qu'un dévoué à l'art sacré... imbécile!"
+}

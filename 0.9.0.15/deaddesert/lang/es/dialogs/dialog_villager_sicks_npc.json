@@ -1,0 +1,11 @@
+{
+  "dialog": "¡Hola! ¿Cómo estás hoy?",
+  "name": "Aldeano Enfermo",
+  "option1": "¿Qué es este lugar?",
+  "option2": "¿Qué se puede hacer aquí?",
+  "option3": "¿Te llaman enfermo porque todos están enfermos de la cabeza?",
+  "parent": "dialogs_generic",
+  "response_mean": "¿Por qué todos siempre son crueles con nosotros...?",
+  "response_saloon": "¡Visita el salón y embriágate, por supuesto!",
+  "response_towninfo": "Este es nuestro pueblo, Sicks. ¡Damos la bienvenida a todos!"
+}

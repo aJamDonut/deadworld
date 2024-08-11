@@ -1,0 +1,12 @@
+{
+  "dialog": "Vaya, veo carne fresca.",
+  "name": "Aldeano de Kolozium",
+  "option1": "¿Qué es este lugar?",
+  "option2": "¿Qué se puede hacer aquí?",
+  "option3": "¿Por qué me llamaste tonto?",
+  "parent": "dialogs_generic",
+  "response_fool": "¡Porque eres un tonto! Pregunta a cualquiera más aquí, te prometo que también lo dirán... ¡tonto!",
+  "response_towninfo": "Este es kolozium, luchamos en el domo... ¡tonto!",
+  "response_whatdo": "Estoy seguro de que un día podrás luchar como un gladiador... ;) De lo contrario, aléjate de los bandidos de TAR... ¡tonto!",
+  "response_whyfool": "¿Nunca te llamé tonto?"
+}

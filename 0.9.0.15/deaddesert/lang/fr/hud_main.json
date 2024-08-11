@@ -1,0 +1,16 @@
+{
+  "action_build": "Construire",
+  "action_craft": "Élaborer",
+  "action_defend": "Défendre",
+  "action_flee": "Fuir",
+  "action_ignore_attackers": "Ignorer les attaquants",
+  "action_medic": "Médecin",
+  "action_sneak": "Se faufiler",
+  "button_build": "Construire",
+  "button_craft": "Élaborer",
+  "button_inventory": "Inventaire",
+  "button_research": "Recherche",
+  "button_stats": "Statistiques",
+  "button_world": "Monde",
+  "title_actions": "Actions"
+}

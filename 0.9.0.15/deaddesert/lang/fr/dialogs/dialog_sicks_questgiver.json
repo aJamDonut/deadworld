@@ -1,0 +1,13 @@
+{
+  "dialog": "Bienvenue au Sicks Saloon, mon ami!",
+  "name": "Chef Sicks",
+  "option1": "Pourquoi tous ces bâtiments détruits?",
+  "option2": "As-tu du travail pour moi?",
+  "option3": "À quoi ressemble ce collègue?",
+  "parent": "dialogs_generic",
+  "response_guyinfo": "Ils portent une chemise verte et un chapeau de fermier.",
+  "response_jobinprogress": "Salut mon pote ! Je n'ai pas de travail en ce moment car tu es censé livrer ce baril.",
+  "response_joboffer": "Si tu pouvais livrer ce baril de bonnes choses à mon collègue à Drumley, cela te vaudrait le coup.",
+  "response_towninfo": "Ce sont les anciens bâtiments en brique... Ils ont été détruits par des pillards. Malheureusement, beaucoup exploitent notre gentillesse.",
+  "response_whatguy": "Quel collègue ?"
+}

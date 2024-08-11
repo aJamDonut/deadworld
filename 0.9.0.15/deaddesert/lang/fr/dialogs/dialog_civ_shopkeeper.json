@@ -1,0 +1,6 @@
+{
+  "dialog": "Je collectionne. Je vends... Que veux-tu ?",
+  "name": "Commerçant de Civ",
+  "option1": "Échangeons",
+  "parent": "dialogs_generic"
+}

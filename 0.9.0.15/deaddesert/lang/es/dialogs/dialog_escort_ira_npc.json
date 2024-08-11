@@ -1,0 +1,7 @@
+{
+  "dialog": "¿No estás con Sincorp, verdad? Necesito tu ayuda, mi hijo ha desaparecido... No sé dónde podría estar... Tal vez sea ese Fuerte Cabeza de Hacha al este de aquí, son realmente una gente horrible.",
+  "name": "Escolta Ira",
+  "option1": "No, no estoy interesado en este momento.",
+  "option2": "Lo revisaré.",
+  "parent": "dialogs_generic"
+}

@@ -1,0 +1,15 @@
+{
+  "crazy_founder": "Szalonego Założyciela",
+  "crazy_founder_desc": "[Trudność: Łatwa] Masz dość nudnego życia w Landzo. Ty i kilku twoich służebnych klonów znajdujecie się w starych ruinach laboratorium Sincorp. Czy potraficie zacząć odbudowę tej niegdyś tętniącej życiem struktury?",
+  "discarded_clone": "Odrzucony Klon",
+  "discarded_clone_desc": "[Trudność: Średnia] Rozpocznij jako odrzucony klon. Nie chciano cię nawet przez twoich twórców z powodu braku jakichkolwiek imponujących cech osobistych, stawiając czoła wyzwaniu przetrwania w świecie, gdzie wszystko widzi cię jako łatwy cel.",
+  "escaped_clone": "Uciekający Klon",
+  "escaped_clone_desc": "[Trudność: Średnia] Rozpocznij jako uciekający klon, który już znalazł się wśród wydm i stworzeń resetu.",
+  "human_founder_offspring": "Potomek Ludzkiego Założyciela",
+  "human_founder_offspring_desc": "[Łatwy] Rozpocznij jako potomek ludzkiego założyciela i wszystkie korzyści płynące z bycia człowiekiem. Zacznij od swojego własnego klona, który spełnia wszystkie twoje rozkazy, a także dużego dziedzictwa.",
+  "life_electric": "Życie Elektryczne",
+  "life_electric_desc": "[Łatwy] Rozpocznij jako Robot MK 1, który nagle zyskał świadomość podczas wykonywania codziennych obowiązków w mieście Landzo.",
+  "one_of_the_lokals": "Jeden z Lokalsów",
+  "one_of_the_lokals_desc": "[Trudny] Rozpocznij jako Lokal, mieszkaniec pustyni, wyposażony w unikalną wiedzę do przetrwania, ale znienawidzony przez wszystkie humanoidy.",
+  "spawnPoint_default": "Domyślny Punkt Odrodzenia"
+}
